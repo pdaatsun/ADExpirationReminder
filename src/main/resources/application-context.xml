@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:c="http://www.springframework.org/schema/c"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+		http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <context:annotation-config />
+
+    <context:component-scan base-package="org.sch.issecurity.iam.tools.ADExpirationReminder"/>
+
+    <bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+        <property name="driverClassName" value="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
+        <property name="url" value="jdbc:sqlserver://LPFORDIAMORA02:1433;DatabaseName=ADUsers;" />
+        <property name="username" value="IAMDEV" />
+        <property name="password" value="admin123" />
+    </bean>
+
+    <!-- Mail service -->
+    <bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">
+        <property name="host" value="lpptcpmxhub02.lpch.net"/>
+        <property name="port" value="587"/>
+        <property name="username" value="IAMNotification"/>
+        <property name="password" value="ISAC$4100"/>
+        <property name="javaMailProperties">
+            <props>
+                <!-- Use SMTP-AUTH to authenticate to SMTP server -->
+                <prop key="mail.smtp.auth">true</prop>
+                <!-- Use TLS to encrypt communication with SMTP server -->
+                <prop key="mail.smtp.starttls.enable">true</prop>
+                <prop key="mail.smtp.host">lpptcpmxhub02.lpch.net</prop>
+                <prop key="mail.smtp.port">587</prop>
+                <prop key="mail.smtp.auth.ntlm.domain">LPCH</prop>
+                <prop key="mail.debug">false</prop>
+            </props>
+        </property>
+    </bean>
+
+    <bean id="freemarkerConfiguration" class="org.springframework.ui.freemarker.FreeMarkerConfigurationFactoryBean">
+        <property name="templateLoaderPath" value="/fmtemplates/"/>
+    </bean>
+
+    <bean id = "expiringUserDAOImpl" class = "org.sch.issecurity.iam.tools.ADExpirationReminder.model.ExpiringUserDAOImpl">
+        <property name = "dataSource" ref = "dataSource" />
+    </bean>
+
+</beans>

@@ -1,0 +1,1246 @@
+2017-04-04 16:51:06 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Tue Apr 04 16:51:06 PDT 2017]; root of context hierarchy
+2017-04-04 16:51:06 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2017-04-04 16:51:07 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+2017-04-04 16:51:09 INFO  MailServiceImpl:42 - Sending message to: ATaylor@stanfordchildrens.org
+2017-04-04 16:51:09 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=MMiles, User Name=Megan Miles, End Date=2017-04-18 00:00:00.0000000, Job Title=Clinical Nurse]
+2017-04-04 16:51:14 INFO  MailServiceImpl:50 - Message has been sent to: ATaylor@stanfordchildrens.org
+2017-04-04 16:51:53 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Tue Apr 04 16:51:53 PDT 2017]; root of context hierarchy
+2017-04-04 16:51:53 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2017-04-04 16:51:54 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+2017-04-04 16:51:56 INFO  MailServiceImpl:42 - Sending message to: ATaylor@stanfordchildrens.org
+2017-04-04 16:51:56 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=MMiles, User Name=Megan Miles, End Date=2017-04-18 00:00:00.0000000, Job Title=Clinical Nurse]
+2017-04-04 16:51:59 INFO  MailServiceImpl:50 - Message has been sent to: ATaylor@stanfordchildrens.org
+2017-04-04 16:52:29 INFO  MailServiceImpl:42 - Sending message to: LWebster@stanfordchildrens.org
+2017-04-04 16:52:29 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=MMadolora, User Name=Monica Madolora, End Date=2017-04-05 00:00:00.0000000, Job Title=Registered Nurse]
+2017-04-04 16:52:34 INFO  MailServiceImpl:50 - Message has been sent to: LWebster@stanfordchildrens.org
+2017-04-04 16:53:04 INFO  MailServiceImpl:42 - Sending message to: KCueto@stanfordchildrens.org
+2017-04-04 16:53:04 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=MParash, User Name=Mary Parash, End Date=2017-04-16 00:00:00.0000000, Job Title=Clinical Nurse]
+2017-04-04 16:53:09 INFO  MailServiceImpl:50 - Message has been sent to: KCueto@stanfordchildrens.org
+2017-04-04 16:53:39 INFO  MailServiceImpl:42 - Sending message to: AuDavis@stanfordchildrens.org
+2017-04-04 16:53:39 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=AlNye, User Name=Aleta Nye, End Date=2017-04-11 00:00:00.0000000, Job Title=Information Security Contractor]
+2017-04-04 16:53:44 INFO  MailServiceImpl:50 - Message has been sent to: AuDavis@stanfordchildrens.org
+2017-04-04 16:54:14 INFO  MailServiceImpl:42 - Sending message to: LKohne@stanfordchildrens.org
+2017-04-04 16:54:14 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=CButcher, User Name=Christina Butcher, End Date=2017-04-16 00:00:00.0000000, Job Title=Case Management Student]
+2017-04-04 16:54:19 INFO  MailServiceImpl:50 - Message has been sent to: LKohne@stanfordchildrens.org
+2017-04-04 16:54:49 INFO  MailServiceImpl:42 - Sending message to: SGeffre@stanfordchildrens.org
+2017-04-04 16:54:49 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=JSarfo, User Name=Judith Sarfo, End Date=2017-04-16 00:00:00.0000000, Job Title=Sterile Processing Technician]
+2017-04-04 16:54:54 INFO  MailServiceImpl:50 - Message has been sent to: SGeffre@stanfordchildrens.org
+2017-04-04 16:55:24 INFO  MailServiceImpl:42 - Sending message to: BKelsey@stanfordchildrens.org
+2017-04-04 16:55:24 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=ECherkas, User Name=Elliot Cherkas, End Date=2017-04-16 00:00:00.0000000, Job Title=Vendor]
+2017-04-04 16:55:29 INFO  MailServiceImpl:50 - Message has been sent to: BKelsey@stanfordchildrens.org
+2017-04-04 16:55:59 INFO  MailServiceImpl:42 - Sending message to: MAbbas@stanfordchildrens.org
+2017-04-04 16:55:59 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=SCoburn, User Name=Shannon Coburn, End Date=2017-04-08 00:00:00.0000000, Job Title=System Admin Sr Advisor]
+2017-04-04 16:56:04 INFO  MailServiceImpl:50 - Message has been sent to: MAbbas@stanfordchildrens.org
+2017-04-04 16:56:34 INFO  MailServiceImpl:42 - Sending message to: DARojas@stanfordchildrens.org
+2017-04-04 16:56:34 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=TrPham, User Name=Tram Pham, End Date=2017-04-15 00:00:00.0000000, Job Title=Payment Posting Specialist]
+2017-04-04 16:56:39 INFO  MailServiceImpl:50 - Message has been sent to: DARojas@stanfordchildrens.org
+2017-04-04 16:57:09 INFO  MailServiceImpl:42 - Sending message to: JHerrera@stanfordchildrens.org
+2017-04-04 16:57:09 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=RyWilliams, User Name=Ryan D Williams, End Date=2017-04-15 00:00:00.0000000, Job Title=PB Remote Diagnistic Radiology Coder]
+2017-04-04 16:57:14 INFO  MailServiceImpl:50 - Message has been sent to: JHerrera@stanfordchildrens.org
+2017-04-04 16:57:44 INFO  MailServiceImpl:42 - Sending message to: LLoh@stanfordchildrens.org
+2017-04-04 16:57:44 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=TDeck, User Name=Theresa Deck, End Date=2017-04-05 00:00:00.0000000, Job Title=VPS Abstractor]
+2017-04-04 16:57:44 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=SGehm, User Name=Stacy Gehm, End Date=2017-04-05 00:00:00.0000000, Job Title=VPS Abstractor]
+2017-04-04 16:57:49 INFO  MailServiceImpl:50 - Message has been sent to: LLoh@stanfordchildrens.org
+2017-04-04 16:58:19 INFO  MailServiceImpl:42 - Sending message to: LAlcantara@stanfordchildrens.org
+2017-04-04 16:58:19 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=JesPark, User Name=Jessica Park, End Date=2017-04-06 00:00:00.0000000, Job Title=MS Genetic Counselor]
+2017-04-04 16:58:24 INFO  MailServiceImpl:50 - Message has been sent to: LAlcantara@stanfordchildrens.org
+2017-04-04 16:58:54 INFO  MailServiceImpl:42 - Sending message to: MeChan@stanfordchildrens.org
+2017-04-04 16:58:54 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=KSahota, User Name=Kamalpreet Sahota, End Date=2017-04-15 00:00:00.0000000, Job Title=Pharmacy student]
+2017-04-04 16:59:00 INFO  MailServiceImpl:50 - Message has been sent to: MeChan@stanfordchildrens.org
+2017-04-04 16:59:30 INFO  MailServiceImpl:42 - Sending message to: RWilliams@stanfordchildrens.org
+2017-04-04 16:59:30 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=ZLund, User Name=Zach Lund, End Date=2017-04-16 00:00:00.0000000, Job Title=Epic HB Analyst]
+2017-04-04 16:59:34 INFO  MailServiceImpl:50 - Message has been sent to: RWilliams@stanfordchildrens.org
+2017-04-04 17:00:04 INFO  ClassPathXmlApplicationContext:982 - Closing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Tue Apr 04 16:51:53 PDT 2017]; root of context hierarchy
+2017-04-06 16:33:08 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Thu Apr 06 16:33:07 PDT 2017]; root of context hierarchy
+2017-04-06 16:33:08 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2017-04-06 16:33:09 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+2017-04-06 16:33:10 INFO  MailServiceImpl:42 - Sending message to: ATaylor@stanfordchildrens.org
+2017-04-06 16:33:10 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=MMiles, User Name=Megan Miles, End Date=2017-04-18 00:00:00.0000000, Job Title=Clinical Nurse]
+2017-04-06 16:33:11 INFO  MailServiceImpl:42 - Sending message to: KCueto@stanfordchildrens.org
+2017-04-06 16:33:11 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=MParash, User Name=Mary Parash, End Date=2017-04-16 00:00:00.0000000, Job Title=Clinical Nurse]
+2017-04-06 16:33:12 INFO  MailServiceImpl:42 - Sending message to: AuDavis@stanfordchildrens.org
+2017-04-06 16:33:12 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=AlNye, User Name=Aleta Nye, End Date=2017-04-11 00:00:00.0000000, Job Title=Information Security Contractor]
+2017-04-06 16:33:12 INFO  MailServiceImpl:42 - Sending message to: LKohne@stanfordchildrens.org
+2017-04-06 16:33:12 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=CButcher, User Name=Christina Butcher, End Date=2017-04-16 00:00:00.0000000, Job Title=Case Management Student]
+2017-04-06 16:33:13 INFO  MailServiceImpl:42 - Sending message to: SGeffre@stanfordchildrens.org
+2017-04-06 16:33:13 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=JSarfo, User Name=Judith Sarfo, End Date=2017-04-16 00:00:00.0000000, Job Title=Sterile Processing Technician]
+2017-04-06 16:33:13 INFO  MailServiceImpl:42 - Sending message to: BKelsey@stanfordchildrens.org
+2017-04-06 16:33:13 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=ECherkas, User Name=Elliot Cherkas, End Date=2017-04-16 00:00:00.0000000, Job Title=Vendor]
+2017-04-06 16:33:14 INFO  MailServiceImpl:42 - Sending message to: MAbbas@stanfordchildrens.org
+2017-04-06 16:33:14 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=SCoburn, User Name=Shannon Coburn, End Date=2017-04-08 00:00:00.0000000, Job Title=System Admin Sr Advisor]
+2017-04-06 16:33:14 INFO  MailServiceImpl:42 - Sending message to: DARojas@stanfordchildrens.org
+2017-04-06 16:33:14 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=TrPham, User Name=Tram Pham, End Date=2017-04-15 00:00:00.0000000, Job Title=Payment Posting Specialist]
+2017-04-06 16:33:14 INFO  MailServiceImpl:42 - Sending message to: JHerrera@stanfordchildrens.org
+2017-04-06 16:33:14 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=RyWilliams, User Name=Ryan D Williams, End Date=2017-04-15 00:00:00.0000000, Job Title=PB Remote Diagnistic Radiology Coder]
+2017-04-06 16:33:14 INFO  MailServiceImpl:42 - Sending message to: BPugh@stanfordchildrens.org
+2017-04-06 16:33:14 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=MFresquez, User Name=Meredith Fresquez, End Date=2017-04-15 00:00:00.0000000, Job Title=Perinatal Sonographer]
+2017-04-06 16:33:15 INFO  MailServiceImpl:42 - Sending message to: nks2016@stanford.edu
+2017-04-06 16:33:15 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=GTichauer, User Name=Garrett Tichauer, End Date=2017-04-12 00:00:00.0000000, Job Title=Monitor from PRA/Genentech]
+2017-04-06 16:33:15 INFO  MailServiceImpl:42 - Sending message to: LLoh@stanfordchildrens.org
+2017-04-06 16:33:15 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=TDeck, User Name=Theresa Deck, End Date=2017-04-07 00:00:00.0000000, Job Title=VPS Abstractor]
+2017-04-06 16:33:15 INFO  MailServiceImpl:42 - Sending message to: MeChan@stanfordchildrens.org
+2017-04-06 16:33:15 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=KSahota, User Name=Kamalpreet Sahota, End Date=2017-04-15 00:00:00.0000000, Job Title=Pharmacy student]
+2017-04-06 16:33:15 INFO  ClassPathXmlApplicationContext:982 - Closing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Thu Apr 06 16:33:07 PDT 2017]; root of context hierarchy
+2017-04-06 17:02:38 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Thu Apr 06 17:02:38 PDT 2017]; root of context hierarchy
+2017-04-06 17:02:38 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2017-04-06 17:02:40 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+2017-04-06 17:02:42 INFO  MailServiceImpl:42 - Sending message to: ATaylor@stanfordchildrens.org
+2017-04-06 17:02:42 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=MMiles, User Name=Megan Miles, End Date=2017-04-18 00:00:00.0000000, Job Title=Clinical Nurse]
+2017-04-06 17:02:42 INFO  MailServiceImpl:42 - Sending message to: KCueto@stanfordchildrens.org
+2017-04-06 17:02:42 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=MParash, User Name=Mary Parash, End Date=2017-04-16 00:00:00.0000000, Job Title=Clinical Nurse]
+2017-04-06 17:02:43 INFO  MailServiceImpl:42 - Sending message to: AuDavis@stanfordchildrens.org
+2017-04-06 17:02:43 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=AlNye, User Name=Aleta Nye, End Date=2017-04-11 00:00:00.0000000, Job Title=Information Security Contractor]
+2017-04-06 17:02:43 INFO  MailServiceImpl:42 - Sending message to: LKohne@stanfordchildrens.org
+2017-04-06 17:02:43 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=CButcher, User Name=Christina Butcher, End Date=2017-04-16 00:00:00.0000000, Job Title=Case Management Student]
+2017-04-06 17:02:44 INFO  MailServiceImpl:42 - Sending message to: SGeffre@stanfordchildrens.org
+2017-04-06 17:02:44 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=JSarfo, User Name=Judith Sarfo, End Date=2017-04-16 00:00:00.0000000, Job Title=Sterile Processing Technician]
+2017-04-06 17:02:45 INFO  MailServiceImpl:42 - Sending message to: BKelsey@stanfordchildrens.org
+2017-04-06 17:02:45 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=ECherkas, User Name=Elliot Cherkas, End Date=2017-04-16 00:00:00.0000000, Job Title=Vendor]
+2017-04-06 17:02:45 INFO  MailServiceImpl:42 - Sending message to: MAbbas@stanfordchildrens.org
+2017-04-06 17:02:45 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=SCoburn, User Name=Shannon Coburn, End Date=2017-04-08 00:00:00.0000000, Job Title=System Admin Sr Advisor]
+2017-04-06 17:02:45 INFO  MailServiceImpl:42 - Sending message to: DARojas@stanfordchildrens.org
+2017-04-06 17:02:45 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=TrPham, User Name=Tram Pham, End Date=2017-04-15 00:00:00.0000000, Job Title=Payment Posting Specialist]
+2017-04-06 17:02:45 INFO  MailServiceImpl:42 - Sending message to: JHerrera@stanfordchildrens.org
+2017-04-06 17:02:45 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=RyWilliams, User Name=Ryan D Williams, End Date=2017-04-15 00:00:00.0000000, Job Title=PB Remote Diagnistic Radiology Coder]
+2017-04-06 17:02:46 INFO  MailServiceImpl:42 - Sending message to: BPugh@stanfordchildrens.org
+2017-04-06 17:02:46 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=MFresquez, User Name=Meredith Fresquez, End Date=2017-04-15 00:00:00.0000000, Job Title=Perinatal Sonographer]
+2017-04-06 17:02:46 INFO  MailServiceImpl:42 - Sending message to: nks2016@stanford.edu
+2017-04-06 17:02:46 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=GTichauer, User Name=Garrett Tichauer, End Date=2017-04-12 00:00:00.0000000, Job Title=Monitor from PRA/Genentech]
+2017-04-06 17:02:46 INFO  MailServiceImpl:42 - Sending message to: LLoh@stanfordchildrens.org
+2017-04-06 17:02:46 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=TDeck, User Name=Theresa Deck, End Date=2017-04-07 00:00:00.0000000, Job Title=VPS Abstractor]
+2017-04-06 17:02:46 INFO  MailServiceImpl:42 - Sending message to: MeChan@stanfordchildrens.org
+2017-04-06 17:02:46 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=KSahota, User Name=Kamalpreet Sahota, End Date=2017-04-15 00:00:00.0000000, Job Title=Pharmacy student]
+2017-04-06 17:02:47 INFO  ClassPathXmlApplicationContext:982 - Closing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Thu Apr 06 17:02:38 PDT 2017]; root of context hierarchy
+2017-04-10 12:35:35 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Mon Apr 10 12:35:35 PDT 2017]; root of context hierarchy
+2017-04-10 12:35:35 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2017-04-10 12:35:37 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+2017-04-10 12:35:38 INFO  MailServiceImpl:42 - Sending message to: DARojas@stanfordchildrens.org
+2017-04-10 12:35:38 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=TrPham, User Name=Tram Pham, End Date=2017-04-15 00:00:00.0000000, Job Title=Payment Posting Specialist]
+2017-04-10 12:35:39 INFO  MailServiceImpl:42 - Sending message to: ATaylor@stanfordchildrens.org
+2017-04-10 12:35:39 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=MMiles, User Name=Megan Miles, End Date=2017-04-18 00:00:00.0000000, Job Title=Clinical Nurse]
+2017-04-10 12:35:40 INFO  MailServiceImpl:42 - Sending message to: JHerrera@stanfordchildrens.org
+2017-04-10 12:35:40 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=RyWilliams, User Name=Ryan D Williams, End Date=2017-04-15 00:00:00.0000000, Job Title=PB Remote Diagnistic Radiology Coder]
+2017-04-10 12:35:40 INFO  MailServiceImpl:42 - Sending message to: AuDavis@stanfordchildrens.org
+2017-04-10 12:35:40 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=AlNye, User Name=Aleta Nye, End Date=2017-04-11 00:00:00.0000000, Job Title=Information Security Contractor]
+2017-04-10 12:35:41 INFO  MailServiceImpl:42 - Sending message to: BPugh@stanfordchildrens.org
+2017-04-10 12:35:41 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=MFresquez, User Name=Meredith Fresquez, End Date=2017-04-15 00:00:00.0000000, Job Title=Perinatal Sonographer]
+2017-04-10 12:35:41 INFO  MailServiceImpl:42 - Sending message to: nks2016@stanford.edu
+2017-04-10 12:35:41 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=GTichauer, User Name=Garrett Tichauer, End Date=2017-04-12 00:00:00.0000000, Job Title=Monitor from PRA/Genentech]
+2017-04-10 12:35:41 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=YZhao, User Name=Yuling Zhao, End Date=2017-04-22 00:00:00.0000000, Job Title=Monitor from St. Jude]
+2017-04-10 12:35:42 INFO  MailServiceImpl:42 - Sending message to: LAlcantara@stanfordchildrens.org
+2017-04-10 12:35:42 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=JesPark, User Name=Jessica Park, End Date=2017-04-12 00:00:00.0000000, Job Title=MS Genetic Counselor]
+2017-04-10 12:35:42 INFO  MailServiceImpl:42 - Sending message to: SGeffre@stanfordchildrens.org
+2017-04-10 12:35:42 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=JSarfo, User Name=Judith Sarfo, End Date=2017-04-16 00:00:00.0000000, Job Title=Sterile Processing Technician]
+2017-04-10 12:35:42 INFO  MailServiceImpl:42 - Sending message to: MeChan@stanfordchildrens.org
+2017-04-10 12:35:42 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=KSahota, User Name=Kamalpreet Sahota, End Date=2017-04-15 00:00:00.0000000, Job Title=Pharmacy student]
+2017-04-10 12:35:42 INFO  MailServiceImpl:42 - Sending message to: BKelsey@stanfordchildrens.org
+2017-04-10 12:35:42 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=ECherkas, User Name=Elliot Cherkas, End Date=2017-04-16 00:00:00.0000000, Job Title=Vendor]
+2017-04-10 12:35:43 INFO  MailServiceImpl:42 - Sending message to: KVanCamp@stanfordchildrens.org
+2017-04-10 12:35:43 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=JanTaylor, User Name=Janice Taylor, End Date=2017-04-22 00:00:00.0000000, Job Title=Data Entry Clerk]
+2017-04-10 12:35:43 INFO  ClassPathXmlApplicationContext:982 - Closing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Mon Apr 10 12:35:35 PDT 2017]; root of context hierarchy
+2017-04-10 12:36:26 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Mon Apr 10 12:36:26 PDT 2017]; root of context hierarchy
+2017-04-10 12:36:26 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2017-04-10 12:36:27 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+2017-04-10 12:36:28 INFO  MailServiceImpl:42 - Sending message to: DARojas@stanfordchildrens.org
+2017-04-10 12:36:28 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=TrPham, User Name=Tram Pham, End Date=2017-04-15 00:00:00.0000000, Job Title=Payment Posting Specialist]
+2017-04-10 12:36:29 INFO  MailServiceImpl:42 - Sending message to: ATaylor@stanfordchildrens.org
+2017-04-10 12:36:29 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=MMiles, User Name=Megan Miles, End Date=2017-04-18 00:00:00.0000000, Job Title=Clinical Nurse]
+2017-04-10 12:36:29 INFO  MailServiceImpl:42 - Sending message to: JHerrera@stanfordchildrens.org
+2017-04-10 12:36:29 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=RyWilliams, User Name=Ryan D Williams, End Date=2017-04-15 00:00:00.0000000, Job Title=PB Remote Diagnistic Radiology Coder]
+2017-04-10 12:36:30 INFO  MailServiceImpl:42 - Sending message to: AuDavis@stanfordchildrens.org
+2017-04-10 12:36:30 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=AlNye, User Name=Aleta Nye, End Date=2017-04-11 00:00:00.0000000, Job Title=Information Security Contractor]
+2017-04-10 12:36:30 INFO  MailServiceImpl:42 - Sending message to: BPugh@stanfordchildrens.org
+2017-04-10 12:36:30 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=MFresquez, User Name=Meredith Fresquez, End Date=2017-04-15 00:00:00.0000000, Job Title=Perinatal Sonographer]
+2017-04-10 12:36:30 INFO  MailServiceImpl:42 - Sending message to: nks2016@stanford.edu
+2017-04-10 12:36:30 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=GTichauer, User Name=Garrett Tichauer, End Date=2017-04-12 00:00:00.0000000, Job Title=Monitor from PRA/Genentech]
+2017-04-10 12:36:30 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=YZhao, User Name=Yuling Zhao, End Date=2017-04-22 00:00:00.0000000, Job Title=Monitor from St. Jude]
+2017-04-10 12:36:30 INFO  MailServiceImpl:42 - Sending message to: LAlcantara@stanfordchildrens.org
+2017-04-10 12:36:30 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=JesPark, User Name=Jessica Park, End Date=2017-04-12 00:00:00.0000000, Job Title=MS Genetic Counselor]
+2017-04-10 12:36:31 INFO  MailServiceImpl:42 - Sending message to: SGeffre@stanfordchildrens.org
+2017-04-10 12:36:31 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=JSarfo, User Name=Judith Sarfo, End Date=2017-04-16 00:00:00.0000000, Job Title=Sterile Processing Technician]
+2017-04-10 12:36:31 INFO  MailServiceImpl:42 - Sending message to: MeChan@stanfordchildrens.org
+2017-04-10 12:36:31 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=KSahota, User Name=Kamalpreet Sahota, End Date=2017-04-15 00:00:00.0000000, Job Title=Pharmacy student]
+2017-04-10 12:36:31 INFO  MailServiceImpl:42 - Sending message to: BKelsey@stanfordchildrens.org
+2017-04-10 12:36:31 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=ECherkas, User Name=Elliot Cherkas, End Date=2017-04-16 00:00:00.0000000, Job Title=Vendor]
+2017-04-10 12:36:31 INFO  MailServiceImpl:42 - Sending message to: KVanCamp@stanfordchildrens.org
+2017-04-10 12:36:31 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=JanTaylor, User Name=Janice Taylor, End Date=2017-04-22 00:00:00.0000000, Job Title=Data Entry Clerk]
+2017-04-10 12:36:32 INFO  ClassPathXmlApplicationContext:982 - Closing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Mon Apr 10 12:36:26 PDT 2017]; root of context hierarchy
+2017-04-10 12:40:27 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Mon Apr 10 12:40:27 PDT 2017]; root of context hierarchy
+2017-04-10 12:40:27 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2017-04-10 12:40:28 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+2017-04-10 12:40:30 INFO  MailServiceImpl:42 - Sending message to: DARojas@stanfordchildrens.org
+2017-04-10 12:40:30 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=TrPham, User Name=Tram Pham, End Date=2017-04-15 00:00:00.0000000, Job Title=Payment Posting Specialist]
+2017-04-10 12:40:38 INFO  MailServiceImpl:50 - Message has been sent to: DARojas@stanfordchildrens.org
+2017-04-10 12:41:08 INFO  MailServiceImpl:42 - Sending message to: ATaylor@stanfordchildrens.org
+2017-04-10 12:41:08 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=MMiles, User Name=Megan Miles, End Date=2017-04-18 00:00:00.0000000, Job Title=Clinical Nurse]
+2017-04-10 12:49:36 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Mon Apr 10 12:49:36 PDT 2017]; root of context hierarchy
+2017-04-10 12:49:36 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2017-04-10 12:49:37 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+2017-04-10 12:49:39 INFO  MailServiceImpl:42 - Sending message to: DARojas@stanfordchildrens.org
+2017-04-10 12:49:39 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=TrPham, User Name=Tram Pham, End Date=2017-04-15 00:00:00.0000000, Job Title=Payment Posting Specialist]
+2017-04-10 12:49:40 INFO  MailServiceImpl:50 - Message has been sent to: DARojas@stanfordchildrens.org
+2017-04-10 12:50:10 INFO  MailServiceImpl:42 - Sending message to: ATaylor@stanfordchildrens.org
+2017-04-10 12:50:10 INFO  MailServiceImpl:46 - Expiring User: UserInfo [User ID=MMiles, User Name=Megan Miles, End Date=2017-04-18 00:00:00.0000000, Job Title=Clinical Nurse]
+2017-04-10 12:56:15 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Mon Apr 10 12:56:15 PDT 2017]; root of context hierarchy
+2017-04-10 12:56:15 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2017-04-10 12:56:16 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+2017-04-10 12:56:18 INFO  MailServiceImpl:42 - Sending message to: DARojas@stanfordchildrens.org
+2017-04-10 12:56:18 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=TrPham, User Name=Tram Pham, End Date=2017-04-15 00:00:00.0000000, Job Title=Payment Posting Specialist]
+2017-04-10 12:56:20 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2017-04-10 12:58:19 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b701da1: startup date [Mon Apr 10 12:58:19 PDT 2017]; root of context hierarchy
+2017-04-10 12:58:19 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2017-04-10 12:58:20 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+2017-04-10 12:58:21 INFO  MailServiceImpl:42 - Sending message to: DARojas@stanfordchildrens.org
+2017-04-10 12:58:21 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=TrPham, User Name=Tram Pham, End Date=2017-04-15 00:00:00.0000000, Job Title=Payment Posting Specialist]
+2017-04-10 12:58:25 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-01 22:51:27 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1c655221: startup date [Sun Jul 01 22:51:27 PDT 2018]; root of context hierarchy
+2018-07-01 22:51:27 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2018-07-01 22:51:28 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+2018-07-01 22:51:30 INFO  MailServiceImpl:42 - Sending message to: MTribble@stanfordchildrens.org
+2018-07-01 22:51:30 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=VKoo, User Name=Veronica Koo, End Date=2018-07-04 00:00:00.0000000, Job Title=Audiology Extern]
+2018-07-01 22:51:30 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=RJocewicz, User Name=Rachael Jocewicz, End Date=2018-07-12 00:00:00.0000000, Job Title=Audiology Extern]
+2018-07-01 22:51:35 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-01 22:52:05 INFO  MailServiceImpl:42 - Sending message to: Lloyd.Hickernell@nttdata.com
+2018-07-01 22:52:05 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SIsmile, User Name=Sek Ismile, End Date=2018-07-03 00:00:00.0000000, Job Title=Espt Team]
+2018-07-01 22:52:05 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=GeMoore, User Name=Gerald Moore, End Date=2018-07-07 00:00:00.0000000, Job Title=Intel]
+2018-07-01 22:52:05 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=ShAgrawal, User Name=Shruthi Agrawal, End Date=2018-07-03 00:00:00.0000000, Job Title=ESPT Team]
+2018-07-01 22:52:05 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=PParashar, User Name=Prabhat Parashar, End Date=2018-07-03 00:00:00.0000000, Job Title=ESPT Team]
+2018-07-01 22:52:11 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-01 22:52:41 INFO  MailServiceImpl:42 - Sending message to: NJanusczok@stanfordchildrens.org
+2018-07-01 22:52:41 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=NOseguera, User Name=Noemi Oseguera, End Date=2018-07-07 00:00:00.0000000, Job Title=Medical Assistant II]
+2018-07-01 22:52:49 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-01 22:53:19 INFO  MailServiceImpl:42 - Sending message to: ALaver@stanfordchildrens.org
+2018-07-01 22:53:19 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=DHayes, User Name=Danielle Hayes, End Date=2018-07-11 00:00:00.0000000, Job Title=Foundation Donor Wall maint]
+2018-07-01 22:53:19 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SPonchak, User Name=Sophie Ponchak, End Date=2018-07-09 00:00:00.0000000, Job Title=Foundations Donor Wall Maint]
+2018-07-01 22:53:26 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-01 22:53:56 INFO  MailServiceImpl:42 - Sending message to: SKinnebrew@stanfordchildrens.org
+2018-07-01 22:53:56 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=KHo, User Name=Kathleen Ho, End Date=2018-07-03 00:00:00.0000000, Job Title=Hospital School Teacher]
+2018-07-01 22:53:56 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=EReedy, User Name=Eileen Reedy, End Date=2018-07-03 00:00:00.0000000, Job Title=Hospital School Secretary]
+2018-07-01 22:53:56 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=tgershon, User Name=Thayer Gershon, End Date=2018-07-03 00:00:00.0000000, Job Title=Hospital School Teacher]
+2018-07-01 22:53:56 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=KDanie, User Name=Kevin Danie, End Date=2018-07-03 00:00:00.0000000, Job Title=Hospital School Teacher]
+2018-07-01 22:54:02 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-01 22:54:32 INFO  MailServiceImpl:42 - Sending message to: DSansanwal@stanfordchildrens.org
+2018-07-01 22:54:32 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=VPhan, User Name=Vincent Phan, End Date=2018-07-07 00:00:00.0000000, Job Title=PeopleSoft Consultant]
+2018-07-01 22:54:44 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-01 22:55:14 INFO  MailServiceImpl:42 - Sending message to: Cathryn.Stauffer@DignityHealth.org
+2018-07-01 22:55:14 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=DYan, User Name=Daihao Yan, End Date=2018-07-07 00:00:00.0000000, Job Title=Dietetic Intern]
+2018-07-01 22:55:19 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-01 22:55:49 INFO  MailServiceImpl:42 - Sending message to: NLash@stanfordchildrens.org
+2018-07-01 22:55:49 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=HFoo, User Name=Helen Foo, End Date=2018-07-07 00:00:00.0000000, Job Title=Lead, Supply Chain]
+2018-07-01 22:55:54 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-01 22:56:24 INFO  MailServiceImpl:42 - Sending message to: JThomas@stanfordchildrens.org
+2018-07-01 22:56:24 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JesLee, User Name=Jessica Lee, End Date=2018-07-03 00:00:00.0000000, Job Title=RN Coordinator]
+2018-07-01 22:56:30 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-01 22:57:00 INFO  MailServiceImpl:42 - Sending message to: JHerrera@stanfordchildrens.org
+2018-07-01 22:57:00 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=YoScott, User Name=Yolunda Scott, End Date=2018-07-14 00:00:00.0000000, Job Title=Anesthesia Coder II]
+2018-07-01 22:57:05 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-01 22:57:35 INFO  MailServiceImpl:42 - Sending message to: SMontiel@stanfordchildrens.org
+2018-07-01 22:57:35 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SCrants, User Name=Shelby Crants, End Date=2018-07-12 00:00:00.0000000, Job Title=Scribe]
+2018-07-01 22:57:40 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-01 22:58:10 INFO  MailServiceImpl:42 - Sending message to: XiChen@stanfordchildrens.org
+2018-07-01 22:58:10 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=GNewton, User Name=Gregory Newton, End Date=2018-07-04 00:00:00.0000000, Job Title=Identity and Access Management Architect]
+2018-07-01 22:58:10 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=TApproval, User Name=Testbypass Approval, End Date=2018-07-02 04:00:00.0000000, Job Title=Security Specialist]
+2018-07-01 22:58:16 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-01 22:58:46 INFO  MailServiceImpl:42 - Sending message to: RajSharma@stanfordchildrens.org
+2018-07-01 22:58:46 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=KOverkamp, User Name=Kelsey Overkamp, End Date=2018-07-07 00:00:00.0000000, Job Title=TS: Grand Central]
+2018-07-01 22:58:51 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-01 22:59:21 INFO  MailServiceImpl:42 - Sending message to: UOmokaro@stanfordchildrens.org
+2018-07-01 22:59:21 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=LOtts, User Name=Lois Otts, End Date=2018-07-15 00:00:00.0000000, Job Title=Clinical Nurse II]
+2018-07-01 22:59:26 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-01 22:59:56 INFO  MailServiceImpl:42 - Sending message to: MaEng@stanfordchildrens.org
+2018-07-01 22:59:56 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MaTaylor, User Name=Mary Taylor, End Date=2018-07-03 00:00:00.0000000, Job Title=Payroll / AP Temp]
+2018-07-01 23:00:01 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-01 23:00:31 INFO  MailServiceImpl:42 - Sending message to: BoFlores@stanfordchildrens.org
+2018-07-01 23:00:31 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MMarion, User Name=Maria Marion, End Date=2018-07-03 00:00:00.0000000, Job Title=CAII]
+2018-07-01 23:00:36 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-01 23:01:06 INFO  ClassPathXmlApplicationContext:982 - Closing org.springframework.context.support.ClassPathXmlApplicationContext@1c655221: startup date [Sun Jul 01 22:51:27 PDT 2018]; root of context hierarchy
+2018-07-01 23:03:02 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1c655221: startup date [Sun Jul 01 23:03:02 PDT 2018]; root of context hierarchy
+2018-07-01 23:03:02 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2018-07-01 23:03:03 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+2018-07-01 23:03:05 INFO  MailServiceImpl:42 - Sending message to: MTribble@stanfordchildrens.org
+2018-07-01 23:03:05 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=VKoo, User Name=Veronica Koo, End Date=2018-07-04 00:00:00.0000000, Job Title=Audiology Extern]
+2018-07-01 23:03:05 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=RJocewicz, User Name=Rachael Jocewicz, End Date=2018-07-12 00:00:00.0000000, Job Title=Audiology Extern]
+2018-07-01 23:03:10 INFO  MailServiceImpl:51 - Message has been sent to: MTribble@stanfordchildrens.org
+2018-07-01 23:03:40 INFO  MailServiceImpl:42 - Sending message to: Lloyd.Hickernell@nttdata.com
+2018-07-01 23:03:40 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SIsmile, User Name=Sek Ismile, End Date=2018-07-03 00:00:00.0000000, Job Title=Espt Team]
+2018-07-01 23:03:40 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=GeMoore, User Name=Gerald Moore, End Date=2018-07-07 00:00:00.0000000, Job Title=Intel]
+2018-07-01 23:03:40 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=ShAgrawal, User Name=Shruthi Agrawal, End Date=2018-07-03 00:00:00.0000000, Job Title=ESPT Team]
+2018-07-01 23:03:40 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=PParashar, User Name=Prabhat Parashar, End Date=2018-07-03 00:00:00.0000000, Job Title=ESPT Team]
+2018-07-01 23:03:44 INFO  MailServiceImpl:51 - Message has been sent to: Lloyd.Hickernell@nttdata.com
+2018-07-01 23:04:14 INFO  MailServiceImpl:42 - Sending message to: NJanusczok@stanfordchildrens.org
+2018-07-01 23:04:14 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=NOseguera, User Name=Noemi Oseguera, End Date=2018-07-07 00:00:00.0000000, Job Title=Medical Assistant II]
+2018-07-01 23:04:19 INFO  MailServiceImpl:51 - Message has been sent to: NJanusczok@stanfordchildrens.org
+2018-07-01 23:04:49 INFO  MailServiceImpl:42 - Sending message to: ALaver@stanfordchildrens.org
+2018-07-01 23:04:49 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=DHayes, User Name=Danielle Hayes, End Date=2018-07-11 00:00:00.0000000, Job Title=Foundation Donor Wall maint]
+2018-07-01 23:04:49 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SPonchak, User Name=Sophie Ponchak, End Date=2018-07-09 00:00:00.0000000, Job Title=Foundations Donor Wall Maint]
+2018-07-01 23:04:54 INFO  MailServiceImpl:51 - Message has been sent to: ALaver@stanfordchildrens.org
+2018-07-01 23:05:24 INFO  MailServiceImpl:42 - Sending message to: SKinnebrew@stanfordchildrens.org
+2018-07-01 23:05:24 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=KHo, User Name=Kathleen Ho, End Date=2018-07-03 00:00:00.0000000, Job Title=Hospital School Teacher]
+2018-07-01 23:05:24 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=EReedy, User Name=Eileen Reedy, End Date=2018-07-03 00:00:00.0000000, Job Title=Hospital School Secretary]
+2018-07-01 23:05:24 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=tgershon, User Name=Thayer Gershon, End Date=2018-07-03 00:00:00.0000000, Job Title=Hospital School Teacher]
+2018-07-01 23:05:24 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=KDanie, User Name=Kevin Danie, End Date=2018-07-03 00:00:00.0000000, Job Title=Hospital School Teacher]
+2018-07-01 23:05:31 INFO  MailServiceImpl:51 - Message has been sent to: SKinnebrew@stanfordchildrens.org
+2018-07-01 23:06:01 INFO  MailServiceImpl:42 - Sending message to: DSansanwal@stanfordchildrens.org
+2018-07-01 23:06:01 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=VPhan, User Name=Vincent Phan, End Date=2018-07-07 00:00:00.0000000, Job Title=PeopleSoft Consultant]
+2018-07-01 23:06:08 INFO  MailServiceImpl:51 - Message has been sent to: DSansanwal@stanfordchildrens.org
+2018-07-01 23:06:38 INFO  MailServiceImpl:42 - Sending message to: Cathryn.Stauffer@DignityHealth.org
+2018-07-01 23:06:38 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=DYan, User Name=Daihao Yan, End Date=2018-07-07 00:00:00.0000000, Job Title=Dietetic Intern]
+2018-07-01 23:06:41 INFO  MailServiceImpl:51 - Message has been sent to: Cathryn.Stauffer@DignityHealth.org
+2018-07-01 23:07:11 INFO  MailServiceImpl:42 - Sending message to: NLash@stanfordchildrens.org
+2018-07-01 23:07:11 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=HFoo, User Name=Helen Foo, End Date=2018-07-07 00:00:00.0000000, Job Title=Lead, Supply Chain]
+2018-07-01 23:07:15 INFO  MailServiceImpl:51 - Message has been sent to: NLash@stanfordchildrens.org
+2018-07-01 23:07:45 INFO  MailServiceImpl:42 - Sending message to: JThomas@stanfordchildrens.org
+2018-07-01 23:07:45 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JesLee, User Name=Jessica Lee, End Date=2018-07-03 00:00:00.0000000, Job Title=RN Coordinator]
+2018-07-01 23:07:50 INFO  MailServiceImpl:51 - Message has been sent to: JThomas@stanfordchildrens.org
+2018-07-01 23:08:20 INFO  MailServiceImpl:42 - Sending message to: JHerrera@stanfordchildrens.org
+2018-07-01 23:08:20 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=YoScott, User Name=Yolunda Scott, End Date=2018-07-14 00:00:00.0000000, Job Title=Anesthesia Coder II]
+2018-07-01 23:08:25 INFO  MailServiceImpl:51 - Message has been sent to: JHerrera@stanfordchildrens.org
+2018-07-01 23:08:55 INFO  MailServiceImpl:42 - Sending message to: SMontiel@stanfordchildrens.org
+2018-07-01 23:08:55 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SCrants, User Name=Shelby Crants, End Date=2018-07-12 00:00:00.0000000, Job Title=Scribe]
+2018-07-01 23:09:00 INFO  MailServiceImpl:51 - Message has been sent to: SMontiel@stanfordchildrens.org
+2018-07-01 23:09:30 INFO  MailServiceImpl:42 - Sending message to: XiChen@stanfordchildrens.org
+2018-07-01 23:09:30 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=GNewton, User Name=Gregory Newton, End Date=2018-07-04 00:00:00.0000000, Job Title=Identity and Access Management Architect]
+2018-07-01 23:09:30 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=TApproval, User Name=Testbypass Approval, End Date=2018-07-02 04:00:00.0000000, Job Title=Security Specialist]
+2018-07-01 23:09:37 INFO  MailServiceImpl:51 - Message has been sent to: XiChen@stanfordchildrens.org
+2018-07-01 23:10:07 INFO  MailServiceImpl:42 - Sending message to: RajSharma@stanfordchildrens.org
+2018-07-01 23:10:07 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=KOverkamp, User Name=Kelsey Overkamp, End Date=2018-07-07 00:00:00.0000000, Job Title=TS: Grand Central]
+2018-07-01 23:10:13 INFO  MailServiceImpl:51 - Message has been sent to: RajSharma@stanfordchildrens.org
+2018-07-01 23:10:43 INFO  MailServiceImpl:42 - Sending message to: UOmokaro@stanfordchildrens.org
+2018-07-01 23:10:43 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=LOtts, User Name=Lois Otts, End Date=2018-07-15 00:00:00.0000000, Job Title=Clinical Nurse II]
+2018-07-01 23:10:50 INFO  MailServiceImpl:51 - Message has been sent to: UOmokaro@stanfordchildrens.org
+2018-07-01 23:11:20 INFO  MailServiceImpl:42 - Sending message to: MaEng@stanfordchildrens.org
+2018-07-01 23:11:20 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MaTaylor, User Name=Mary Taylor, End Date=2018-07-03 00:00:00.0000000, Job Title=Payroll / AP Temp]
+2018-07-01 23:11:26 INFO  MailServiceImpl:51 - Message has been sent to: MaEng@stanfordchildrens.org
+2018-07-01 23:11:56 INFO  MailServiceImpl:42 - Sending message to: BoFlores@stanfordchildrens.org
+2018-07-01 23:11:56 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MMarion, User Name=Maria Marion, End Date=2018-07-03 00:00:00.0000000, Job Title=CAII]
+2018-07-01 23:12:01 INFO  MailServiceImpl:51 - Message has been sent to: BoFlores@stanfordchildrens.org
+2018-07-01 23:12:31 INFO  ClassPathXmlApplicationContext:982 - Closing org.springframework.context.support.ClassPathXmlApplicationContext@1c655221: startup date [Sun Jul 01 23:03:02 PDT 2018]; root of context hierarchy
+2018-07-07 23:37:30 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1c655221: startup date [Sat Jul 07 23:37:30 PDT 2018]; root of context hierarchy
+2018-07-07 23:37:30 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2018-07-07 23:37:31 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+2018-07-07 23:37:33 INFO  MailServiceImpl:42 - Sending message to: AnPande@stanfordchildrens.org
+2018-07-07 23:37:33 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=BranReese, User Name=Brandon Reese, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC NC Ops L1 Support]
+2018-07-07 23:37:38 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-07 23:38:09 INFO  MailServiceImpl:74 - Sending message to: Brandon.reese@siriuscom.com
+2018-07-07 23:38:09 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=BranReese, User Name=Brandon Reese, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC NC Ops L1 Support]
+2018-07-07 23:38:13 INFO  MailServiceImpl:83 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-07 23:38:43 INFO  ClassPathXmlApplicationContext:982 - Closing org.springframework.context.support.ClassPathXmlApplicationContext@1c655221: startup date [Sat Jul 07 23:37:30 PDT 2018]; root of context hierarchy
+2018-07-07 23:40:43 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1c655221: startup date [Sat Jul 07 23:40:43 PDT 2018]; root of context hierarchy
+2018-07-07 23:40:43 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2018-07-07 23:40:44 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+2018-07-07 23:40:45 INFO  MailServiceImpl:42 - Sending message to: AnPande@stanfordchildrens.org
+2018-07-07 23:40:45 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=BranReese, User Name=Brandon Reese, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC NC Ops L1 Support]
+2018-07-07 23:40:50 INFO  MailServiceImpl:51 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-07 23:41:21 INFO  MailServiceImpl:74 - Sending message to: Brandon.reese@siriuscom.com
+2018-07-07 23:41:21 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=BranReese, User Name=Brandon Reese, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC NC Ops L1 Support]
+2018-07-07 23:41:25 INFO  MailServiceImpl:83 - Message has been sent to: xichen@stanfordchildrens.org
+2018-07-07 23:41:55 INFO  ClassPathXmlApplicationContext:982 - Closing org.springframework.context.support.ClassPathXmlApplicationContext@1c655221: startup date [Sat Jul 07 23:40:43 PDT 2018]; root of context hierarchy
+2018-07-07 23:43:36 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1c655221: startup date [Sat Jul 07 23:43:36 PDT 2018]; root of context hierarchy
+2018-07-07 23:43:36 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2018-07-07 23:43:37 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+2018-07-07 23:43:38 INFO  MailServiceImpl:42 - Sending message to: WYu@stanfordchildrens.org
+2018-07-07 23:43:38 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=KBorromeo, User Name=Krystle Borromeo, End Date=2018-07-18 00:00:00.0000000, Job Title=RN]
+2018-07-07 23:43:43 INFO  MailServiceImpl:51 - Message has been sent to: WYu@stanfordchildrens.org
+2018-07-07 23:44:13 INFO  MailServiceImpl:42 - Sending message to: MBrinkerhoff@stanfordchildrens.org
+2018-07-07 23:44:13 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=KChartier, User Name=Kirsty Chartier, End Date=2018-07-16 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-07 23:44:17 INFO  MailServiceImpl:51 - Message has been sent to: MBrinkerhoff@stanfordchildrens.org
+2018-07-07 23:44:47 INFO  MailServiceImpl:42 - Sending message to: ATaylor@stanfordchildrens.org
+2018-07-07 23:44:47 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=TBroadway, User Name=Tiffany Broadway, End Date=2018-07-16 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-07 23:44:52 INFO  MailServiceImpl:51 - Message has been sent to: ATaylor@stanfordchildrens.org
+2018-07-07 23:45:22 INFO  MailServiceImpl:42 - Sending message to: KCueto@stanfordchildrens.org
+2018-07-07 23:45:22 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=LSilvey, User Name=Laura Silvey, End Date=2018-07-16 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-07 23:45:26 INFO  MailServiceImpl:51 - Message has been sent to: KCueto@stanfordchildrens.org
+2018-07-07 23:45:56 INFO  MailServiceImpl:42 - Sending message to: SBrown@stanfordchildrens.org
+2018-07-07 23:45:56 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=KEakin, User Name=Kaylee Eakin, End Date=2018-07-16 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-07 23:45:56 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=NGrey, User Name=Nakisha Grey, End Date=2018-07-16 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-07 23:46:01 INFO  MailServiceImpl:51 - Message has been sent to: SBrown@stanfordchildrens.org
+2018-07-07 23:46:31 INFO  MailServiceImpl:42 - Sending message to: ALaver@stanfordchildrens.org
+2018-07-07 23:46:31 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JPierre, User Name=Jean Pierre, End Date=2018-07-21 00:00:00.0000000, Job Title=Versus RTLS Technical Solution]
+2018-07-07 23:46:31 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=DHayes, User Name=Danielle Hayes, End Date=2018-07-11 00:00:00.0000000, Job Title=Foundation Donor Wall maint]
+2018-07-07 23:46:31 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=DoFikes, User Name=Douglas Fikes, End Date=2018-07-21 00:00:00.0000000, Job Title=Versus RTLS Technical Solution]
+2018-07-07 23:46:31 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SPonchak, User Name=Sophie Ponchak, End Date=2018-07-09 00:00:00.0000000, Job Title=Foundations Donor Wall Maint]
+2018-07-07 23:46:31 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=LHennrick, User Name=Leigh Hennrick, End Date=2018-07-21 00:00:00.0000000, Job Title=Versus RTLS Technical Solution]
+2018-07-07 23:46:35 INFO  MailServiceImpl:51 - Message has been sent to: ALaver@stanfordchildrens.org
+2018-07-07 23:47:05 INFO  MailServiceImpl:42 - Sending message to: DSlodov@stanfordhealthcare.org
+2018-07-07 23:47:05 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=TGomez, User Name=Terrance Gomez, End Date=2018-07-08 00:00:00.0000000, Job Title=Inventory Coordinator]
+2018-07-07 23:47:09 INFO  MailServiceImpl:51 - Message has been sent to: DSlodov@stanfordhealthcare.org
+2018-07-07 23:47:39 INFO  MailServiceImpl:42 - Sending message to: JWayne@stanfordchildrens.org
+2018-07-07 23:47:39 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=dreid, User Name=Debbie Reid, End Date=2018-07-17 00:00:00.0000000, Job Title=Director of Client and Technical Supp]
+2018-07-07 23:47:39 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MMacHarris, User Name=Mark MacHarris, End Date=2018-07-17 00:00:00.0000000, Job Title=Samaritan Analyst]
+2018-07-07 23:47:43 INFO  MailServiceImpl:51 - Message has been sent to: JWayne@stanfordchildrens.org
+2018-07-07 23:48:13 INFO  MailServiceImpl:42 - Sending message to: MaYbarra@stanfordchildrens.org
+2018-07-07 23:48:13 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SarJames, User Name=Sara James, End Date=2018-07-17 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-07 23:48:17 INFO  MailServiceImpl:51 - Message has been sent to: MaYbarra@stanfordchildrens.org
+2018-07-07 23:48:47 INFO  MailServiceImpl:42 - Sending message to: JHerrera@stanfordchildrens.org
+2018-07-07 23:48:47 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=YoScott, User Name=Yolunda Scott, End Date=2018-07-14 00:00:00.0000000, Job Title=Anesthesia Coder II]
+2018-07-07 23:48:51 INFO  MailServiceImpl:51 - Message has been sent to: JHerrera@stanfordchildrens.org
+2018-07-07 23:49:21 INFO  MailServiceImpl:42 - Sending message to: SMontiel@stanfordchildrens.org
+2018-07-07 23:49:21 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SCrants, User Name=Shelby Crants, End Date=2018-07-12 00:00:00.0000000, Job Title=Scribe]
+2018-07-07 23:49:25 INFO  MailServiceImpl:51 - Message has been sent to: SMontiel@stanfordchildrens.org
+2018-07-07 23:49:55 INFO  MailServiceImpl:42 - Sending message to: AWetzel@stanfordchildrens.org
+2018-07-07 23:49:55 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=LBerriosMoore, User Name=Lisa Berrios-Moore, End Date=2018-07-21 00:00:00.0000000, Job Title=MRI Technologist]
+2018-07-07 23:50:00 INFO  MailServiceImpl:51 - Message has been sent to: AWetzel@stanfordchildrens.org
+2018-07-07 23:50:30 INFO  MailServiceImpl:42 - Sending message to: AnPande@stanfordchildrens.org
+2018-07-07 23:50:30 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=CEdwards, User Name=Chris Edwards, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC NC Ops L1 Support]
+2018-07-07 23:50:30 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=BranReese, User Name=Brandon Reese, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC NC Ops L1 Support]
+2018-07-07 23:50:34 INFO  MailServiceImpl:51 - Message has been sent to: AnPande@stanfordchildrens.org
+2018-07-07 23:51:04 INFO  MailServiceImpl:42 - Sending message to: JStrider@stanfordchildrens.org
+2018-07-07 23:51:04 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MoBliss, User Name=Monica Bliss, End Date=2018-07-21 00:00:00.0000000, Job Title=Admin Assistance]
+2018-07-07 23:51:15 INFO  MailServiceImpl:51 - Message has been sent to: JStrider@stanfordchildrens.org
+2018-07-07 23:51:45 INFO  MailServiceImpl:42 - Sending message to: UOmokaro@stanfordchildrens.org
+2018-07-07 23:51:45 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=LOtts, User Name=Lois Otts, End Date=2018-07-15 00:00:00.0000000, Job Title=Clinical Nurse II]
+2018-07-07 23:51:50 INFO  MailServiceImpl:51 - Message has been sent to: UOmokaro@stanfordchildrens.org
+2018-07-07 23:52:20 INFO  MailServiceImpl:42 - Sending message to: VYeluri@stanfordchildrens.org
+2018-07-07 23:52:20 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MCrane, User Name=Michelle Crane, End Date=2018-07-21 00:00:00.0000000, Job Title=Implementation Engineer]
+2018-07-07 23:52:23 INFO  MailServiceImpl:51 - Message has been sent to: VYeluri@stanfordchildrens.org
+2018-07-07 23:52:54 INFO  MailServiceImpl:74 - Sending message to: leighh@versustech.com
+2018-07-07 23:52:54 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=LHennrick, User Name=Leigh Hennrick, End Date=2018-07-21 00:00:00.0000000, Job Title=Versus RTLS Technical Solution]
+2018-07-07 23:52:56 INFO  MailServiceImpl:83 - Message has been sent to: leighh@versustech.com
+2018-07-07 23:53:26 INFO  MailServiceImpl:74 - Sending message to: Chris.Edwards@siriuscom.com
+2018-07-07 23:53:26 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=CEdwards, User Name=Chris Edwards, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC NC Ops L1 Support]
+2018-07-07 23:53:29 INFO  MailServiceImpl:83 - Message has been sent to: Chris.Edwards@siriuscom.com
+2018-07-07 23:53:59 INFO  MailServiceImpl:74 - Sending message to: TBroadway@stanfordchildrens.org
+2018-07-07 23:53:59 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=TBroadway, User Name=Tiffany Broadway, End Date=2018-07-16 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-07 23:54:03 INFO  MailServiceImpl:83 - Message has been sent to: TBroadway@stanfordchildrens.org
+2018-07-07 23:54:33 INFO  MailServiceImpl:74 - Sending message to: LBerriosMoore@stanfordchildrens.org
+2018-07-07 23:54:33 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=LBerriosMoore, User Name=Lisa Berrios-Moore, End Date=2018-07-21 00:00:00.0000000, Job Title=MRI Technologist]
+2018-07-07 23:54:37 INFO  MailServiceImpl:83 - Message has been sent to: LBerriosMoore@stanfordchildrens.org
+2018-07-07 23:55:07 INFO  MailServiceImpl:74 - Sending message to: SCrants@stanfordchildrens.org
+2018-07-07 23:55:07 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=SCrants, User Name=Shelby Crants, End Date=2018-07-12 00:00:00.0000000, Job Title=Scribe]
+2018-07-07 23:55:11 INFO  MailServiceImpl:83 - Message has been sent to: SCrants@stanfordchildrens.org
+2018-07-07 23:55:41 INFO  MailServiceImpl:74 - Sending message to: SBravo@stanfordchildrens.org
+2018-07-07 23:55:41 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=SBravo, User Name=Sergio Bravo, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC Engineer - Network]
+2018-07-07 23:55:44 INFO  MailServiceImpl:83 - Message has been sent to: SBravo@stanfordchildrens.org
+2018-07-07 23:56:14 INFO  MailServiceImpl:74 - Sending message to: SPonchak@stanfordchildrens.org
+2018-07-07 23:56:14 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=SPonchak, User Name=Sophie Ponchak, End Date=2018-07-09 00:00:00.0000000, Job Title=Foundations Donor Wall Maint]
+2018-07-07 23:56:19 INFO  MailServiceImpl:83 - Message has been sent to: SPonchak@stanfordchildrens.org
+2018-07-07 23:56:49 INFO  MailServiceImpl:74 - Sending message to: Debbie.Cearlock@infor.com
+2018-07-07 23:56:49 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=dreid, User Name=Debbie Reid, End Date=2018-07-17 00:00:00.0000000, Job Title=Director of Client and Technical Supp]
+2018-07-07 23:56:52 INFO  MailServiceImpl:83 - Message has been sent to: Debbie.Cearlock@infor.com
+2018-07-07 23:57:22 INFO  MailServiceImpl:74 - Sending message to: YoScott@stanfordchildrens.org
+2018-07-07 23:57:22 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=YoScott, User Name=Yolunda Scott, End Date=2018-07-14 00:00:00.0000000, Job Title=Anesthesia Coder II]
+2018-07-07 23:57:26 INFO  MailServiceImpl:83 - Message has been sent to: YoScott@stanfordchildrens.org
+2018-07-07 23:57:56 INFO  MailServiceImpl:74 - Sending message to: christopher.trotto@siriuscom.com
+2018-07-07 23:57:56 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=CTrotto, User Name=Christopher Trotto, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC NC Ops L2 Support]
+2018-07-07 23:57:59 INFO  MailServiceImpl:83 - Message has been sent to: christopher.trotto@siriuscom.com
+2018-07-07 23:58:29 INFO  MailServiceImpl:74 - Sending message to: EHelfenbein@stanfordchildrens.org
+2018-07-07 23:58:29 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=EHelfenbein, User Name=Eric Helfenbein, End Date=2018-07-13 00:00:00.0000000, Job Title=Principal Scientist]
+2018-07-07 23:58:33 INFO  MailServiceImpl:83 - Message has been sent to: EHelfenbein@stanfordchildrens.org
+2018-07-07 23:59:03 INFO  MailServiceImpl:74 - Sending message to: MTalajkowski@stanfordchildrens.org
+2018-07-07 23:59:03 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MTalajkowski, User Name=Michelle Talajkowski, End Date=2018-07-13 00:00:00.0000000, Job Title=Physical Therapist]
+2018-07-07 23:59:07 INFO  MailServiceImpl:83 - Message has been sent to: MTalajkowski@stanfordchildrens.org
+2018-07-07 23:59:38 INFO  MailServiceImpl:74 - Sending message to: MoBliss@stanfordchildrens.org
+2018-07-07 23:59:38 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MoBliss, User Name=Monica Bliss, End Date=2018-07-21 00:00:00.0000000, Job Title=Admin Assistance]
+2018-07-07 23:59:42 INFO  MailServiceImpl:83 - Message has been sent to: MoBliss@stanfordchildrens.org
+2018-07-08 00:00:12 INFO  MailServiceImpl:74 - Sending message to: LOtts@stanfordchildrens.org
+2018-07-08 00:00:12 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=LOtts, User Name=Lois Otts, End Date=2018-07-15 00:00:00.0000000, Job Title=Clinical Nurse II]
+2018-07-08 00:00:15 INFO  MailServiceImpl:83 - Message has been sent to: LOtts@stanfordchildrens.org
+2018-07-08 00:00:45 INFO  MailServiceImpl:74 - Sending message to: JPierre@stanfordchildrens.org
+2018-07-08 00:00:45 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=JPierre, User Name=Jean Pierre, End Date=2018-07-21 00:00:00.0000000, Job Title=Versus RTLS Technical Solution]
+2018-07-08 00:00:52 INFO  MailServiceImpl:83 - Message has been sent to: JPierre@stanfordchildrens.org
+2018-07-08 00:01:22 INFO  MailServiceImpl:74 - Sending message to: KBorromeo@stanfordchildrens.org
+2018-07-08 00:01:22 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=KBorromeo, User Name=Krystle Borromeo, End Date=2018-07-18 00:00:00.0000000, Job Title=RN]
+2018-07-08 00:01:26 INFO  MailServiceImpl:83 - Message has been sent to: KBorromeo@stanfordchildrens.org
+2018-07-08 00:01:56 INFO  MailServiceImpl:74 - Sending message to: MOngerth@stanfordchildrens.org
+2018-07-08 00:01:56 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MOngerth, User Name=Ann Michelle Ongerth, End Date=2018-07-13 00:00:00.0000000, Job Title=PT-Contractor]
+2018-07-08 00:02:00 INFO  MailServiceImpl:83 - Message has been sent to: MOngerth@stanfordchildrens.org
+2018-07-08 00:02:30 INFO  MailServiceImpl:74 - Sending message to: SarJames@stanfordchildrens.org
+2018-07-08 00:02:30 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=SarJames, User Name=Sara James, End Date=2018-07-17 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-08 00:02:35 INFO  MailServiceImpl:83 - Message has been sent to: SarJames@stanfordchildrens.org
+2018-07-08 00:03:05 INFO  MailServiceImpl:74 - Sending message to: BStehr@stanfordchildrens.org
+2018-07-08 00:03:05 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=BStehr, User Name=Bjorn-Henning Stehr, End Date=2018-07-21 00:00:00.0000000, Job Title=Clinical Assistant Professor]
+2018-07-08 00:03:09 INFO  MailServiceImpl:83 - Message has been sent to: BStehr@stanfordchildrens.org
+2018-07-08 00:03:39 INFO  MailServiceImpl:74 - Sending message to: CChristner@stanfordchildrens.org
+2018-07-08 00:03:39 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=CChristner, User Name=Colette Christner, End Date=2018-07-19 00:00:00.0000000, Job Title=Schuler]
+2018-07-08 00:03:43 INFO  MailServiceImpl:83 - Message has been sent to: CChristner@stanfordchildrens.org
+2018-07-08 00:04:13 INFO  MailServiceImpl:74 - Sending message to: KEakin@stanfordchildrens.org
+2018-07-08 00:04:13 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=KEakin, User Name=Kaylee Eakin, End Date=2018-07-16 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-08 00:04:17 INFO  MailServiceImpl:83 - Message has been sent to: KEakin@stanfordchildrens.org
+2018-07-08 00:04:47 INFO  MailServiceImpl:74 - Sending message to: mmacharris@samaritan.com
+2018-07-08 00:04:47 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MMacHarris, User Name=Mark MacHarris, End Date=2018-07-17 00:00:00.0000000, Job Title=Samaritan Analyst]
+2018-07-08 00:04:49 INFO  MailServiceImpl:83 - Message has been sent to: mmacharris@samaritan.com
+2018-07-08 00:05:19 INFO  MailServiceImpl:74 - Sending message to: NGrey@stanfordchildrens.org
+2018-07-08 00:05:19 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=NGrey, User Name=Nakisha Grey, End Date=2018-07-16 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-08 00:05:23 INFO  MailServiceImpl:83 - Message has been sent to: NGrey@stanfordchildrens.org
+2018-07-08 00:05:53 INFO  MailServiceImpl:74 - Sending message to: DHayes@stanfordchildrens.org
+2018-07-08 00:05:53 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=DHayes, User Name=Danielle Hayes, End Date=2018-07-11 00:00:00.0000000, Job Title=Foundation Donor Wall maint]
+2018-07-08 00:05:58 INFO  MailServiceImpl:83 - Message has been sent to: DHayes@stanfordchildrens.org
+2018-07-08 00:06:28 INFO  MailServiceImpl:74 - Sending message to: LSilvey@stanfordchildrens.org
+2018-07-08 00:06:28 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=LSilvey, User Name=Laura Silvey, End Date=2018-07-16 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-08 00:06:32 INFO  MailServiceImpl:83 - Message has been sent to: LSilvey@stanfordchildrens.org
+2018-07-08 00:07:02 INFO  MailServiceImpl:74 - Sending message to: KChartier@stanfordchildrens.org
+2018-07-08 00:07:02 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=KChartier, User Name=Kirsty Chartier, End Date=2018-07-16 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-08 00:07:07 INFO  MailServiceImpl:83 - Message has been sent to: KChartier@stanfordchildrens.org
+2018-07-08 00:07:37 INFO  MailServiceImpl:74 - Sending message to: John.Wermuth-Kohne@siriuscom.com
+2018-07-08 00:07:37 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=JWermuth, User Name=John Wermuth, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC Associate Engineer]
+2018-07-08 00:07:40 INFO  MailServiceImpl:83 - Message has been sent to: John.Wermuth-Kohne@siriuscom.com
+2018-07-08 00:08:10 INFO  MailServiceImpl:74 - Sending message to: Brandon.reese@siriuscom.com
+2018-07-08 00:08:10 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=BranReese, User Name=Brandon Reese, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC NC Ops L1 Support]
+2018-07-08 00:08:13 INFO  MailServiceImpl:83 - Message has been sent to: Brandon.reese@siriuscom.com
+2018-07-08 00:08:43 INFO  MailServiceImpl:74 - Sending message to: terrance_gomez@stanfordhealthcare.org
+2018-07-08 00:08:43 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=TGomez, User Name=Terrance Gomez, End Date=2018-07-08 00:00:00.0000000, Job Title=Inventory Coordinator]
+2018-07-08 00:08:46 INFO  MailServiceImpl:83 - Message has been sent to: terrance_gomez@stanfordhealthcare.org
+2018-07-08 00:09:16 INFO  MailServiceImpl:74 - Sending message to: DoFikes@stanfordchildrens.org
+2018-07-08 00:09:16 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=DoFikes, User Name=Douglas Fikes, End Date=2018-07-21 00:00:00.0000000, Job Title=Versus RTLS Technical Solution]
+2018-07-08 00:09:20 INFO  MailServiceImpl:83 - Message has been sent to: DoFikes@stanfordchildrens.org
+2018-07-08 00:09:50 INFO  ClassPathXmlApplicationContext:982 - Closing org.springframework.context.support.ClassPathXmlApplicationContext@1c655221: startup date [Sat Jul 07 23:43:36 PDT 2018]; root of context hierarchy
+2018-07-17 17:03:04 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1c655221: startup date [Tue Jul 17 17:03:04 PDT 2018]; root of context hierarchy
+2018-07-17 17:03:04 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2018-07-17 17:03:05 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+2018-07-17 17:03:07 INFO  MailServiceImpl:42 - Sending message to: NHowell@stanfordchildrens.org
+2018-07-17 17:03:07 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=NBravo, User Name=Nora Dee Bravo, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-17 17:03:10 INFO  MailServiceImpl:51 - Message has been sent to: NHowell@stanfordchildrens.org
+2018-07-17 17:03:40 INFO  MailServiceImpl:42 - Sending message to: MBrinkerhoff@stanfordchildrens.org
+2018-07-17 17:03:40 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=KCostello, User Name=Kathleen Costello, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-17 17:03:40 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JaJackson, User Name=Jasmyne Jackson, End Date=2018-07-23 00:00:00.0000000, Job Title=OB Tech]
+2018-07-17 17:03:44 INFO  MailServiceImpl:51 - Message has been sent to: MBrinkerhoff@stanfordchildrens.org
+2018-07-17 17:04:14 INFO  MailServiceImpl:42 - Sending message to: ATaylor@stanfordchildrens.org
+2018-07-17 17:04:14 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=AHeitner, User Name=Abigail Heitner, End Date=2018-07-31 00:00:00.0000000, Job Title=Clincial Nurse]
+2018-07-17 17:04:17 INFO  MailServiceImpl:51 - Message has been sent to: ATaylor@stanfordchildrens.org
+2018-07-17 17:04:47 INFO  MailServiceImpl:42 - Sending message to: KCueto@stanfordchildrens.org
+2018-07-17 17:04:47 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=HBye, User Name=Haley Bye, End Date=2018-07-24 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-17 17:04:52 INFO  MailServiceImpl:51 - Message has been sent to: KCueto@stanfordchildrens.org
+2018-07-17 17:05:22 INFO  MailServiceImpl:42 - Sending message to: ALaver@stanfordchildrens.org
+2018-07-17 17:05:22 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JPierre, User Name=Jean Pierre, End Date=2018-07-21 00:00:00.0000000, Job Title=Versus RTLS Technical Solution]
+2018-07-17 17:05:22 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=DoFikes, User Name=Douglas Fikes, End Date=2018-07-21 00:00:00.0000000, Job Title=Versus RTLS Technical Solution]
+2018-07-17 17:05:22 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=LHennrick, User Name=Leigh Hennrick, End Date=2018-07-21 00:00:00.0000000, Job Title=Versus RTLS Technical Solution]
+2018-07-17 17:05:25 INFO  MailServiceImpl:51 - Message has been sent to: ALaver@stanfordchildrens.org
+2018-07-17 17:05:55 INFO  MailServiceImpl:42 - Sending message to: RCardenas@stanfordchildrens.org
+2018-07-17 17:05:55 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=YMarteNunez, User Name=Yinett Marte Nunez, End Date=2018-07-31 00:00:00.0000000, Job Title=Sterile Processor]
+2018-07-17 17:05:58 INFO  MailServiceImpl:51 - Message has been sent to: RCardenas@stanfordchildrens.org
+2018-07-17 17:06:28 INFO  MailServiceImpl:42 - Sending message to: GEncinias@stanfordchildrens.org
+2018-07-17 17:06:28 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=TeMoore, User Name=Teddi Moore, End Date=2018-07-29 00:00:00.0000000, Job Title=X-Ray Technologist]
+2018-07-17 17:06:32 INFO  MailServiceImpl:51 - Message has been sent to: GEncinias@stanfordchildrens.org
+2018-07-17 17:07:02 INFO  MailServiceImpl:42 - Sending message to: AAtkinson2@stanfordchildrens.org
+2018-07-17 17:07:02 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SOspina, User Name=Sebastian Ospina, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-17 17:07:04 INFO  MailServiceImpl:51 - Message has been sent to: AAtkinson2@stanfordchildrens.org
+2018-07-17 17:07:34 INFO  MailServiceImpl:42 - Sending message to: MVaneijk@stanfordchildrens.org
+2018-07-17 17:07:34 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=GDishongh, User Name=Grace Dishongh, End Date=2018-07-24 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-17 17:07:37 INFO  MailServiceImpl:51 - Message has been sent to: MVaneijk@stanfordchildrens.org
+2018-07-17 17:08:07 INFO  MailServiceImpl:42 - Sending message to: JoAnderson@stanfordchildrens.org
+2018-07-17 17:08:07 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=CCardell, User Name=Chia-Yu Cardell, End Date=2018-07-23 00:00:00.0000000, Job Title=Sleep Technologist]
+2018-07-17 17:08:11 INFO  MailServiceImpl:51 - Message has been sent to: JoAnderson@stanfordchildrens.org
+2018-07-17 17:08:41 INFO  MailServiceImpl:42 - Sending message to: PFlocas@stanfordchildrens.org
+2018-07-17 17:08:41 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=GCain, User Name=Gary Cain, End Date=2018-07-31 00:00:00.0000000, Job Title=Desktop Technician]
+2018-07-17 17:08:44 INFO  MailServiceImpl:51 - Message has been sent to: PFlocas@stanfordchildrens.org
+2018-07-17 17:09:14 INFO  MailServiceImpl:42 - Sending message to: JohYu@stanfordchildrens.org
+2018-07-17 17:09:14 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=NRegtest, User Name=NonEmp Regtest, End Date=2018-07-30 04:00:00.0000000, Job Title=IS Security Consultant]
+2018-07-17 17:09:17 INFO  MailServiceImpl:51 - Message has been sent to: JohYu@stanfordchildrens.org
+2018-07-17 17:09:47 INFO  MailServiceImpl:42 - Sending message to: NManson@stanfordchildrens.org
+2018-07-17 17:09:47 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=BLyons, User Name=Brittany Lyons, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-17 17:09:51 INFO  MailServiceImpl:51 - Message has been sent to: NManson@stanfordchildrens.org
+2018-07-17 17:10:21 INFO  MailServiceImpl:42 - Sending message to: LFiloteo@stanfordchildrens.org
+2018-07-17 17:10:21 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=AOsserBurgess, User Name=April Osser Burgess, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-17 17:10:24 INFO  MailServiceImpl:51 - Message has been sent to: LFiloteo@stanfordchildrens.org
+2018-07-17 17:10:54 INFO  MailServiceImpl:42 - Sending message to: MTran@stanfordchildrens.org
+2018-07-17 17:10:54 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=LienPNguyen, User Name=LienPhuong Nguyen, End Date=2018-07-29 00:00:00.0000000, Job Title=Pharmacy Technician]
+2018-07-17 17:10:58 INFO  MailServiceImpl:51 - Message has been sent to: MTran@stanfordchildrens.org
+2018-07-17 17:11:28 INFO  MailServiceImpl:42 - Sending message to: AWetzel@stanfordchildrens.org
+2018-07-17 17:11:28 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=LBerriosMoore, User Name=Lisa Berrios-Moore, End Date=2018-07-21 00:00:00.0000000, Job Title=MRI Technologist]
+2018-07-17 17:11:32 INFO  MailServiceImpl:51 - Message has been sent to: AWetzel@stanfordchildrens.org
+2018-07-17 17:12:02 INFO  MailServiceImpl:42 - Sending message to: AnPande@stanfordchildrens.org
+2018-07-17 17:12:02 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=CEdwards, User Name=Chris Edwards, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC NC Ops L1 Support]
+2018-07-17 17:12:02 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=DPiccone, User Name=Damon Piccone, End Date=2018-07-28 00:00:00.0000000, Job Title=Interim Dir Infrastructure]
+2018-07-17 17:12:02 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=BranReese, User Name=Brandon Reese, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC NC Ops L1 Support]
+2018-07-17 17:12:06 INFO  MailServiceImpl:51 - Message has been sent to: AnPande@stanfordchildrens.org
+2018-07-17 17:12:36 INFO  MailServiceImpl:42 - Sending message to: DSiu@stanfordchildrens.org
+2018-07-17 17:12:36 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MaAnabeza, User Name=Marlyn Anabeza, End Date=2018-07-31 00:00:00.0000000, Job Title=Abstracter]
+2018-07-17 17:12:39 INFO  MailServiceImpl:51 - Message has been sent to: DSiu@stanfordchildrens.org
+2018-07-17 17:13:09 INFO  MailServiceImpl:42 - Sending message to: JStrider@stanfordchildrens.org
+2018-07-17 17:13:09 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MoBliss, User Name=Monica Bliss, End Date=2018-07-21 00:00:00.0000000, Job Title=Admin Assistance]
+2018-07-17 17:13:14 INFO  MailServiceImpl:51 - Message has been sent to: JStrider@stanfordchildrens.org
+2018-07-17 17:13:44 INFO  MailServiceImpl:42 - Sending message to: XiChen@stanfordchildrens.org
+2018-07-17 17:13:44 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=TAppfix, User Name=TestEPIC Appfix, End Date=2018-07-31 04:00:00.0000000, Job Title=PCHA Staff]
+2018-07-17 17:13:44 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=TLinkcreate, User Name=Testapp Linkcreate, End Date=2018-07-23 04:00:00.0000000, Job Title=PCHA Specialist]
+2018-07-17 17:13:49 INFO  MailServiceImpl:51 - Message has been sent to: XiChen@stanfordchildrens.org
+2018-07-17 17:14:19 INFO  MailServiceImpl:42 - Sending message to: RKoppolu@stanfordchildrens.org
+2018-07-17 17:14:19 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=StephSmith, User Name=Stephanie Smith, End Date=2018-07-31 00:00:00.0000000, Job Title=NP Student]
+2018-07-17 17:14:23 INFO  MailServiceImpl:51 - Message has been sent to: RKoppolu@stanfordchildrens.org
+2018-07-17 17:14:53 INFO  MailServiceImpl:42 - Sending message to: VYeluri@stanfordchildrens.org
+2018-07-17 17:14:53 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SKendall, User Name=Shane Kendall, End Date=2018-07-31 00:00:00.0000000, Job Title=Support Engineer]
+2018-07-17 17:15:02 INFO  MailServiceImpl:51 - Message has been sent to: VYeluri@stanfordchildrens.org
+2018-07-17 17:15:32 INFO  MailServiceImpl:42 - Sending message to: SJain@stanfordchildrens.org
+2018-07-17 17:15:32 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=CCraig, User Name=Christina Craig, End Date=2018-07-26 00:00:00.0000000, Job Title=EPSI Vendor Support]
+2018-07-17 17:15:32 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MHansen, User Name=Mark Hansen, End Date=2018-07-26 00:00:00.0000000, Job Title=EPSI Vendor Support]
+2018-07-17 17:15:32 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=TWatson, User Name=Travis Watson, End Date=2018-07-26 00:00:00.0000000, Job Title=EPSI Vendor Support]
+2018-07-17 17:15:32 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JCusick, User Name=John Cusick, End Date=2018-07-26 00:00:00.0000000, Job Title=EPSI Vendor Support]
+2018-07-17 17:15:32 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JBenne, User Name=Jeffrey Benne, End Date=2018-07-26 00:00:00.0000000, Job Title=EPSI Vendor Support]
+2018-07-17 17:15:36 INFO  MailServiceImpl:51 - Message has been sent to: SJain@stanfordchildrens.org
+2018-07-17 17:16:06 INFO  MailServiceImpl:42 - Sending message to: LSalleyMistele@stanfordchildrens.org
+2018-07-17 17:16:06 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=RichJames, User Name=Rich James, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-17 17:16:10 INFO  MailServiceImpl:51 - Message has been sent to: LSalleyMistele@stanfordchildrens.org
+2018-07-17 17:16:40 INFO  MailServiceImpl:74 - Sending message to: leighh@versustech.com
+2018-07-17 17:16:40 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=LHennrick, User Name=Leigh Hennrick, End Date=2018-07-21 00:00:00.0000000, Job Title=Versus RTLS Technical Solution]
+2018-07-17 17:16:43 INFO  MailServiceImpl:83 - Message has been sent to: leighh@versustech.com
+2018-07-17 17:17:13 INFO  MailServiceImpl:74 - Sending message to: KCostello@stanfordchildrens.org
+2018-07-17 17:17:13 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=KCostello, User Name=Kathleen Costello, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-17 17:17:18 INFO  MailServiceImpl:83 - Message has been sent to: KCostello@stanfordchildrens.org
+2018-07-17 17:17:48 INFO  MailServiceImpl:74 - Sending message to: NBravo@stanfordchildrens.org
+2018-07-17 17:17:48 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=NBravo, User Name=Nora Dee Bravo, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-17 17:17:52 INFO  MailServiceImpl:83 - Message has been sent to: NBravo@stanfordchildrens.org
+2018-07-17 17:18:22 INFO  MailServiceImpl:74 - Sending message to: TeMoore@stanfordchildrens.org
+2018-07-17 17:18:22 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=TeMoore, User Name=Teddi Moore, End Date=2018-07-29 00:00:00.0000000, Job Title=X-Ray Technologist]
+2018-07-17 17:18:30 INFO  MailServiceImpl:83 - Message has been sent to: TeMoore@stanfordchildrens.org
+2018-07-17 17:19:00 INFO  MailServiceImpl:74 - Sending message to: Chris.Edwards@siriuscom.com
+2018-07-17 17:19:00 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=CEdwards, User Name=Chris Edwards, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC NC Ops L1 Support]
+2018-07-17 17:19:03 INFO  MailServiceImpl:83 - Message has been sent to: Chris.Edwards@siriuscom.com
+2018-07-17 17:19:33 INFO  MailServiceImpl:74 - Sending message to: NRegtest@stanfordchildrens.org
+2018-07-17 17:19:33 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=NRegtest, User Name=NonEmp Regtest, End Date=2018-07-30 04:00:00.0000000, Job Title=IS Security Consultant]
+2018-07-17 17:19:36 INFO  MailServiceImpl:83 - Message has been sent to: NRegtest@stanfordchildrens.org
+2018-07-17 17:20:06 INFO  MailServiceImpl:74 - Sending message to: DMatias@stanfordchildrens.org
+2018-07-17 17:20:06 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=dmatias, User Name=Dennis Matias, End Date=2018-07-28 00:00:00.0000000, Job Title=Mobility Device Engineer]
+2018-07-17 17:20:10 INFO  MailServiceImpl:83 - Message has been sent to: DMatias@stanfordchildrens.org
+2018-07-17 17:20:40 INFO  MailServiceImpl:74 - Sending message to: LBerriosMoore@stanfordchildrens.org
+2018-07-17 17:20:40 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=LBerriosMoore, User Name=Lisa Berrios-Moore, End Date=2018-07-21 00:00:00.0000000, Job Title=MRI Technologist]
+2018-07-17 17:20:44 INFO  MailServiceImpl:83 - Message has been sent to: LBerriosMoore@stanfordchildrens.org
+2018-07-17 17:21:14 INFO  MailServiceImpl:74 - Sending message to: RichJames@stanfordchildrens.org
+2018-07-17 17:21:14 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=RichJames, User Name=Rich James, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-17 17:21:17 INFO  MailServiceImpl:83 - Message has been sent to: RichJames@stanfordchildrens.org
+2018-07-17 17:21:47 INFO  MailServiceImpl:74 - Sending message to: neville.latchman@siriuscom.com
+2018-07-17 17:21:47 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=NLatchman, User Name=Newille Latchman, End Date=2018-07-28 00:00:00.0000000, Job Title=Sr. Network Solutions Eng]
+2018-07-17 17:21:51 INFO  MailServiceImpl:83 - Message has been sent to: neville.latchman@siriuscom.com
+2018-07-17 17:22:21 INFO  MailServiceImpl:74 - Sending message to: GGarbers@stanfordchildrens.org
+2018-07-17 17:22:21 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=GGarbers, User Name=Gus Garbers, End Date=2018-07-26 00:00:00.0000000, Job Title=Buyer]
+2018-07-17 17:22:24 INFO  MailServiceImpl:83 - Message has been sent to: GGarbers@stanfordchildrens.org
+2018-07-17 17:22:54 INFO  MailServiceImpl:74 - Sending message to: YChoi@stanfordchildrens.org
+2018-07-17 17:22:54 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=YChoi, User Name=Youmi Choi, End Date=2018-07-25 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-17 17:22:58 INFO  MailServiceImpl:83 - Message has been sent to: YChoi@stanfordchildrens.org
+2018-07-17 17:23:28 INFO  MailServiceImpl:74 - Sending message to: AOsserBurgess@stanfordchildrens.org
+2018-07-17 17:23:28 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=AOsserBurgess, User Name=April Osser Burgess, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-17 17:23:32 INFO  MailServiceImpl:83 - Message has been sent to: AOsserBurgess@stanfordchildrens.org
+2018-07-17 17:24:02 INFO  MailServiceImpl:74 - Sending message to: DPiccone@stanfordchildrens.org
+2018-07-17 17:24:02 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=DPiccone, User Name=Damon Piccone, End Date=2018-07-28 00:00:00.0000000, Job Title=Interim Dir Infrastructure]
+2018-07-17 17:24:11 INFO  MailServiceImpl:83 - Message has been sent to: DPiccone@stanfordchildrens.org
+2018-07-17 17:24:41 INFO  MailServiceImpl:74 - Sending message to: HBye@stanfordchildrens.org
+2018-07-17 17:24:41 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=HBye, User Name=Haley Bye, End Date=2018-07-24 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-17 17:24:44 INFO  MailServiceImpl:83 - Message has been sent to: HBye@stanfordchildrens.org
+2018-07-17 17:25:14 INFO  MailServiceImpl:74 - Sending message to: SBravo@stanfordchildrens.org
+2018-07-17 17:25:14 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=SBravo, User Name=Sergio Bravo, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC Engineer - Network]
+2018-07-17 17:25:17 INFO  MailServiceImpl:83 - Message has been sent to: SBravo@stanfordchildrens.org
+2018-07-17 17:25:47 INFO  MailServiceImpl:74 - Sending message to: AHeitner@stanfordchildrens.org
+2018-07-17 17:25:47 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=AHeitner, User Name=Abigail Heitner, End Date=2018-07-31 00:00:00.0000000, Job Title=Clincial Nurse]
+2018-07-17 17:25:51 INFO  MailServiceImpl:83 - Message has been sent to: AHeitner@stanfordchildrens.org
+2018-07-17 17:26:21 INFO  MailServiceImpl:74 - Sending message to: CArteberry@stanfordchildrens.org
+2018-07-17 17:26:21 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=CArteberry, User Name=Chris Arteberry, End Date=2018-07-20 00:00:00.0000000, Job Title=Ergo Program Manager]
+2018-07-17 17:26:25 INFO  MailServiceImpl:83 - Message has been sent to: CArteberry@stanfordchildrens.org
+2018-07-17 17:26:55 INFO  MailServiceImpl:74 - Sending message to: LienPNguyen@stanfordchildrens.org
+2018-07-17 17:26:55 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=LienPNguyen, User Name=LienPhuong Nguyen, End Date=2018-07-29 00:00:00.0000000, Job Title=Pharmacy Technician]
+2018-07-17 17:27:00 INFO  MailServiceImpl:83 - Message has been sent to: LienPNguyen@stanfordchildrens.org
+2018-07-17 17:27:30 INFO  MailServiceImpl:74 - Sending message to: christopher.trotto@siriuscom.com
+2018-07-17 17:27:30 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=CTrotto, User Name=Christopher Trotto, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC NC Ops L2 Support]
+2018-07-17 17:27:33 INFO  MailServiceImpl:83 - Message has been sent to: christopher.trotto@siriuscom.com
+2018-07-17 17:28:03 INFO  MailServiceImpl:74 - Sending message to: BLyons@stanfordchildrens.org
+2018-07-17 17:28:03 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=BLyons, User Name=Brittany Lyons, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-17 17:28:06 INFO  MailServiceImpl:83 - Message has been sent to: BLyons@stanfordchildrens.org
+2018-07-17 17:28:36 INFO  MailServiceImpl:74 - Sending message to: MoBliss@stanfordchildrens.org
+2018-07-17 17:28:36 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MoBliss, User Name=Monica Bliss, End Date=2018-07-21 00:00:00.0000000, Job Title=Admin Assistance]
+2018-07-17 17:28:40 INFO  MailServiceImpl:83 - Message has been sent to: MoBliss@stanfordchildrens.org
+2018-07-17 17:29:10 INFO  MailServiceImpl:74 - Sending message to: YMarteNunez@stanfordchildrens.org
+2018-07-17 17:29:10 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=YMarteNunez, User Name=Yinett Marte Nunez, End Date=2018-07-31 00:00:00.0000000, Job Title=Sterile Processor]
+2018-07-17 17:29:14 INFO  MailServiceImpl:83 - Message has been sent to: YMarteNunez@stanfordchildrens.org
+2018-07-17 17:29:44 INFO  MailServiceImpl:74 - Sending message to: SOspina@stanfordchildrens.org
+2018-07-17 17:29:44 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=SOspina, User Name=Sebastian Ospina, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-17 17:29:47 INFO  MailServiceImpl:83 - Message has been sent to: SOspina@stanfordchildrens.org
+2018-07-17 17:30:17 INFO  MailServiceImpl:74 - Sending message to: JPierre@stanfordchildrens.org
+2018-07-17 17:30:17 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=JPierre, User Name=Jean Pierre, End Date=2018-07-21 00:00:00.0000000, Job Title=Versus RTLS Technical Solution]
+2018-07-17 17:30:21 INFO  MailServiceImpl:83 - Message has been sent to: JPierre@stanfordchildrens.org
+2018-07-17 17:30:51 INFO  MailServiceImpl:74 - Sending message to: JaJackson@stanfordchildrens.org
+2018-07-17 17:30:51 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=JaJackson, User Name=Jasmyne Jackson, End Date=2018-07-23 00:00:00.0000000, Job Title=OB Tech]
+2018-07-17 17:30:55 INFO  MailServiceImpl:83 - Message has been sent to: JaJackson@stanfordchildrens.org
+2018-07-17 17:31:25 INFO  MailServiceImpl:74 - Sending message to: MaAnabeza@stanfordchildrens.org
+2018-07-17 17:31:25 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MaAnabeza, User Name=Marlyn Anabeza, End Date=2018-07-31 00:00:00.0000000, Job Title=Abstracter]
+2018-07-17 17:31:29 INFO  MailServiceImpl:83 - Message has been sent to: MaAnabeza@stanfordchildrens.org
+2018-07-17 17:31:59 INFO  MailServiceImpl:74 - Sending message to: BStehr@stanfordchildrens.org
+2018-07-17 17:31:59 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=BStehr, User Name=Bjorn-Henning Stehr, End Date=2018-07-21 00:00:00.0000000, Job Title=Clinical Assistant Professor]
+2018-07-17 17:32:03 INFO  MailServiceImpl:83 - Message has been sent to: BStehr@stanfordchildrens.org
+2018-07-17 17:32:33 INFO  MailServiceImpl:74 - Sending message to: CChristner@stanfordchildrens.org
+2018-07-17 17:32:33 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=CChristner, User Name=Colette Christner, End Date=2018-07-19 00:00:00.0000000, Job Title=Schuler]
+2018-07-17 17:32:38 INFO  MailServiceImpl:83 - Message has been sent to: CChristner@stanfordchildrens.org
+2018-07-17 17:33:08 INFO  MailServiceImpl:74 - Sending message to: CCardell@stanfordchildrens.org
+2018-07-17 17:33:08 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=CCardell, User Name=Chia-Yu Cardell, End Date=2018-07-23 00:00:00.0000000, Job Title=Sleep Technologist]
+2018-07-17 17:33:11 INFO  MailServiceImpl:83 - Message has been sent to: CCardell@stanfordchildrens.org
+2018-07-17 17:33:41 INFO  MailServiceImpl:74 - Sending message to: skendall@imagestreammedical.com
+2018-07-17 17:33:41 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=SKendall, User Name=Shane Kendall, End Date=2018-07-31 00:00:00.0000000, Job Title=Support Engineer]
+2018-07-17 17:33:44 INFO  MailServiceImpl:83 - Message has been sent to: skendall@imagestreammedical.com
+2018-07-17 17:34:14 INFO  MailServiceImpl:74 - Sending message to: KyRobinson@stanfordchildrens.org
+2018-07-17 17:34:14 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=KyRobinson, User Name=Kyle Robinson, End Date=2018-07-18 00:00:00.0000000, Job Title=SD Agent]
+2018-07-17 17:34:18 INFO  MailServiceImpl:83 - Message has been sent to: KyRobinson@stanfordchildrens.org
+2018-07-17 17:34:48 INFO  MailServiceImpl:74 - Sending message to: John.Wermuth-Kohne@siriuscom.com
+2018-07-17 17:34:48 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=JWermuth, User Name=John Wermuth, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC Associate Engineer]
+2018-07-17 17:34:51 INFO  MailServiceImpl:83 - Message has been sent to: John.Wermuth-Kohne@siriuscom.com
+2018-07-17 17:35:21 INFO  MailServiceImpl:74 - Sending message to: Brandon.reese@siriuscom.com
+2018-07-17 17:35:21 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=BranReese, User Name=Brandon Reese, End Date=2018-07-21 00:00:00.0000000, Job Title=Managed SVC NC Ops L1 Support]
+2018-07-17 17:35:23 INFO  MailServiceImpl:83 - Message has been sent to: Brandon.reese@siriuscom.com
+2018-07-17 17:35:53 INFO  MailServiceImpl:74 - Sending message to: GCain@stanfordchildrens.org
+2018-07-17 17:35:53 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=GCain, User Name=Gary Cain, End Date=2018-07-31 00:00:00.0000000, Job Title=Desktop Technician]
+2018-07-17 17:35:56 INFO  MailServiceImpl:83 - Message has been sent to: GCain@stanfordchildrens.org
+2018-07-17 17:36:26 INFO  MailServiceImpl:74 - Sending message to: test@test.com
+2018-07-17 17:36:26 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=TAppfix, User Name=TestEPIC Appfix, End Date=2018-07-31 04:00:00.0000000, Job Title=PCHA Staff]
+2018-07-17 17:36:28 INFO  MailServiceImpl:83 - Message has been sent to: test@test.com
+2018-07-17 17:36:58 INFO  MailServiceImpl:74 - Sending message to: GDishongh@stanfordchildrens.org
+2018-07-17 17:36:58 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=GDishongh, User Name=Grace Dishongh, End Date=2018-07-24 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-17 17:37:03 INFO  MailServiceImpl:83 - Message has been sent to: GDishongh@stanfordchildrens.org
+2018-07-17 17:37:33 INFO  MailServiceImpl:74 - Sending message to: Stuart.Johnson@siriuscom.com
+2018-07-17 17:37:33 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=StuJohnson, User Name=Stuart Johnson, End Date=2018-07-28 00:00:00.0000000, Job Title=Managed SVC NC Operations -CSI]
+2018-07-17 17:37:41 INFO  MailServiceImpl:83 - Message has been sent to: Stuart.Johnson@siriuscom.com
+2018-07-17 17:38:11 INFO  MailServiceImpl:74 - Sending message to: DoFikes@stanfordchildrens.org
+2018-07-17 17:38:11 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=DoFikes, User Name=Douglas Fikes, End Date=2018-07-21 00:00:00.0000000, Job Title=Versus RTLS Technical Solution]
+2018-07-17 17:38:14 INFO  MailServiceImpl:83 - Message has been sent to: DoFikes@stanfordchildrens.org
+2018-07-17 17:38:44 INFO  ClassPathXmlApplicationContext:982 - Closing org.springframework.context.support.ClassPathXmlApplicationContext@1c655221: startup date [Tue Jul 17 17:03:04 PDT 2018]; root of context hierarchy
+2018-07-22 11:33:26 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1c655221: startup date [Sun Jul 22 11:33:26 PDT 2018]; root of context hierarchy
+2018-07-22 11:33:26 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2018-07-22 11:33:27 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+2018-07-22 11:33:30 INFO  MailServiceImpl:42 - Sending message to: BPerkins@stanfordchildrens.org
+2018-07-22 11:33:30 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=KBogart, User Name=Kristen Bogart, End Date=2018-08-03 00:00:00.0000000, Job Title=Radiologist Assistant]
+2018-07-22 11:33:52 INFO  MailServiceImpl:51 - Message has been sent to: BPerkins@stanfordchildrens.org
+2018-07-22 11:34:22 INFO  MailServiceImpl:42 - Sending message to: SShanks@stanfordchildrens.org
+2018-07-22 11:34:22 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=GLara, User Name=Glyna Lara, End Date=2018-08-04 00:00:00.0000000, Job Title=Student]
+2018-07-22 11:34:26 INFO  MailServiceImpl:51 - Message has been sent to: SShanks@stanfordchildrens.org
+2018-07-22 11:34:56 INFO  MailServiceImpl:42 - Sending message to: RCardenas@stanfordchildrens.org
+2018-07-22 11:34:56 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=YMarteNunez, User Name=Yinett Marte Nunez, End Date=2018-07-31 00:00:00.0000000, Job Title=Sterile Processor]
+2018-07-22 11:35:00 INFO  MailServiceImpl:51 - Message has been sent to: RCardenas@stanfordchildrens.org
+2018-07-22 11:35:30 INFO  MailServiceImpl:42 - Sending message to: WChandler@stanfordchildrens.org
+2018-07-22 11:35:30 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=KEvans, User Name=Katie Evans, End Date=2018-08-01 00:00:00.0000000, Job Title=Communications Specialist]
+2018-07-22 11:35:30 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=LManter, User Name=Lee Manter, End Date=2018-08-01 00:00:00.0000000, Job Title=IS Project Engineer]
+2018-07-22 11:35:34 INFO  MailServiceImpl:51 - Message has been sent to: WChandler@stanfordchildrens.org
+2018-07-22 11:36:04 INFO  MailServiceImpl:42 - Sending message to: AWakeling@stanfordchildrens.org
+2018-07-22 11:36:04 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=tcosta, User Name=taylor costa, End Date=2018-08-01 04:00:00.0000000, Job Title=Genetic Counseling Intern]
+2018-07-22 11:36:08 INFO  MailServiceImpl:51 - Message has been sent to: AWakeling@stanfordchildrens.org
+2018-07-22 11:36:38 INFO  MailServiceImpl:42 - Sending message to: PaFong@stanfordchildrens.org
+2018-07-22 11:36:38 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MAbboud, User Name=Maria Abboud, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 11:36:38 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MMaye, User Name=Mary Maye, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 11:36:38 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=HPlanchart, User Name=Hazel Planchart, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 11:36:38 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SQuimby, User Name=SellyAnn Quimby, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 11:36:38 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=CrisHernandez, User Name=Cristina Hernandez, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 11:36:38 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=ToGomez, User Name=Tonia Gomez, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 11:36:38 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=AZimmerman, User Name=Austin Zimmerman, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 11:36:38 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=LInman, User Name=Lauren Inman, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 11:36:38 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MaLove, User Name=Mandy Love, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP Remote Support Director]
+2018-07-22 11:36:38 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=NWalker, User Name=Nathan Walker, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 11:36:38 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SLoPresti, User Name=Sabrina LoPresti, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 11:36:38 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MPlanchart, User Name=Michael Planchart, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 11:36:38 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JHouse, User Name=Jen House, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 11:36:43 INFO  MailServiceImpl:51 - Message has been sent to: PaFong@stanfordchildrens.org
+2018-07-22 11:37:13 INFO  MailServiceImpl:42 - Sending message to: clambert@stanfordchildrens.org
+2018-07-22 11:37:13 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JClayton, User Name=Jennifer Clayton, End Date=2018-08-02 00:00:00.0000000, Job Title=SD Agent]
+2018-07-22 11:37:18 INFO  MailServiceImpl:51 - Message has been sent to: clambert@stanfordchildrens.org
+2018-07-22 11:37:48 INFO  MailServiceImpl:42 - Sending message to: MaYbarra@stanfordchildrens.org
+2018-07-22 11:37:48 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=LKeith, User Name=Lakesia Keith, End Date=2018-08-04 00:00:00.0000000, Job Title=Unit Secretary]
+2018-07-22 11:37:48 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=ETolentino, User Name=Evangeline Tolentino, End Date=2018-08-04 00:00:00.0000000, Job Title=Unit Secretary]
+2018-07-22 11:37:48 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=FeChavez, User Name=Felisia Chavez, End Date=2018-08-02 00:00:00.0000000, Job Title=Nursing Asst]
+2018-07-22 11:37:48 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=CBaliling, User Name=Cheryl Baliling, End Date=2018-08-02 00:00:00.0000000, Job Title=Nursing Assistant]
+2018-07-22 11:37:48 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=GOrozco, User Name=Guadalupe Orozco, End Date=2018-08-02 00:00:00.0000000, Job Title=Nursing Asst]
+2018-07-22 11:37:48 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=IAnya, User Name=Ifeyinwa Anya, End Date=2018-08-04 00:00:00.0000000, Job Title=Nursing Assistant]
+2018-07-22 11:37:53 INFO  MailServiceImpl:51 - Message has been sent to: MaYbarra@stanfordchildrens.org
+2018-07-22 11:38:23 INFO  MailServiceImpl:42 - Sending message to: KeJohnsonCNO@stanfordchildrens.org
+2018-07-22 11:38:23 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MiBass, User Name=Michelle Bass, End Date=2018-08-02 00:00:00.0000000, Job Title=Population Research Librarian]
+2018-07-22 11:38:27 INFO  MailServiceImpl:51 - Message has been sent to: KeJohnsonCNO@stanfordchildrens.org
+2018-07-22 11:38:57 INFO  MailServiceImpl:42 - Sending message to: MVaneijk@stanfordchildrens.org
+2018-07-22 11:38:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=GDishongh, User Name=Grace Dishongh, End Date=2018-07-24 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 11:39:02 INFO  MailServiceImpl:51 - Message has been sent to: MVaneijk@stanfordchildrens.org
+2018-07-22 11:39:32 INFO  MailServiceImpl:42 - Sending message to: JoAnderson@stanfordchildrens.org
+2018-07-22 11:39:32 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=CCardell, User Name=Chia-Yu Cardell, End Date=2018-07-23 00:00:00.0000000, Job Title=Sleep Technologist]
+2018-07-22 11:39:32 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JChristensen, User Name=Julie Christensen, End Date=2018-08-01 00:00:00.0000000, Job Title=RCP/Sleep Technologist]
+2018-07-22 11:39:36 INFO  MailServiceImpl:51 - Message has been sent to: JoAnderson@stanfordchildrens.org
+2018-07-22 11:40:06 INFO  MailServiceImpl:42 - Sending message to: KVanCamp@stanfordchildrens.org
+2018-07-22 11:40:06 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MPalmon, User Name=Michal Palmon, End Date=2018-08-01 00:00:00.0000000, Job Title=Biostatistician]
+2018-07-22 11:40:11 INFO  MailServiceImpl:51 - Message has been sent to: KVanCamp@stanfordchildrens.org
+2018-07-22 11:40:41 INFO  MailServiceImpl:42 - Sending message to: SAult@stanfordchildrens.org
+2018-07-22 11:40:41 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=AGuerino, User Name=Angelica Guerino, End Date=2018-08-02 00:00:00.0000000, Job Title=Clinical Assistant II]
+2018-07-22 11:40:45 INFO  MailServiceImpl:51 - Message has been sent to: SAult@stanfordchildrens.org
+2018-07-22 11:41:15 INFO  MailServiceImpl:42 - Sending message to: rhatkins@stanfordhealthcare.org
+2018-07-22 11:41:15 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JSessler, User Name=Jeri Sessler, End Date=2018-08-02 00:00:00.0000000, Job Title=Interim Procurement and Category Manager]
+2018-07-22 11:41:18 INFO  MailServiceImpl:51 - Message has been sent to: rhatkins@stanfordhealthcare.org
+2018-07-22 11:41:48 INFO  MailServiceImpl:42 - Sending message to: JohYu@stanfordchildrens.org
+2018-07-22 11:41:48 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=NRegtest, User Name=NonEmp Regtest, End Date=2018-07-30 04:00:00.0000000, Job Title=IS Security Consultant]
+2018-07-22 11:41:52 INFO  MailServiceImpl:51 - Message has been sent to: JohYu@stanfordchildrens.org
+2018-07-22 11:42:22 INFO  MailServiceImpl:42 - Sending message to: NManson@stanfordchildrens.org
+2018-07-22 11:42:22 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=BLyons, User Name=Brittany Lyons, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 11:42:26 INFO  MailServiceImpl:51 - Message has been sent to: NManson@stanfordchildrens.org
+2018-07-22 11:42:56 INFO  MailServiceImpl:42 - Sending message to: LFiloteo@stanfordchildrens.org
+2018-07-22 11:42:56 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MSorillo, User Name=Macey Sorillo, End Date=2018-08-02 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 11:42:56 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=AOsserBurgess, User Name=April Osser Burgess, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 11:43:00 INFO  MailServiceImpl:51 - Message has been sent to: LFiloteo@stanfordchildrens.org
+2018-07-22 11:43:30 INFO  MailServiceImpl:42 - Sending message to: kdotson@stanfordchildrens.org
+2018-07-22 11:43:30 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SRadovcich, User Name=Susan Radovcich, End Date=2018-08-01 00:00:00.0000000, Job Title=MediBase Vendor]
+2018-07-22 11:43:30 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=DSeiple, User Name=David Seiple, End Date=2018-08-01 00:00:00.0000000, Job Title=MediBase Vendor]
+2018-07-22 11:43:30 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JOpdenbrouw, User Name=Jenny Opdenbrouw, End Date=2018-08-01 00:00:00.0000000, Job Title=MediBase Consultant]
+2018-07-22 11:43:35 INFO  MailServiceImpl:51 - Message has been sent to: kdotson@stanfordchildrens.org
+2018-07-22 11:44:05 INFO  MailServiceImpl:42 - Sending message to: DSiu@stanfordchildrens.org
+2018-07-22 11:44:05 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=ElaSalazar, User Name=Elaine Salazar, End Date=2018-08-01 00:00:00.0000000, Job Title=Abstractor]
+2018-07-22 11:44:05 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MaAnabeza, User Name=Marlyn Anabeza, End Date=2018-07-31 00:00:00.0000000, Job Title=Abstracter]
+2018-07-22 11:44:09 INFO  MailServiceImpl:51 - Message has been sent to: DSiu@stanfordchildrens.org
+2018-07-22 11:44:39 INFO  MailServiceImpl:42 - Sending message to: MMadrigal@stanfordchildrens.org
+2018-07-22 11:44:39 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MSalazar, User Name=Maribel Salazar, End Date=2018-08-02 00:00:00.0000000, Job Title=Customer Service Representative]
+2018-07-22 11:44:43 INFO  MailServiceImpl:51 - Message has been sent to: MMadrigal@stanfordchildrens.org
+2018-07-22 11:45:14 INFO  MailServiceImpl:42 - Sending message to: SJain@stanfordchildrens.org
+2018-07-22 11:45:14 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=CCraig, User Name=Christina Craig, End Date=2018-07-26 00:00:00.0000000, Job Title=EPSI Vendor Support]
+2018-07-22 11:45:14 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MHansen, User Name=Mark Hansen, End Date=2018-07-26 00:00:00.0000000, Job Title=EPSI Vendor Support]
+2018-07-22 11:45:14 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=TWatson, User Name=Travis Watson, End Date=2018-07-26 00:00:00.0000000, Job Title=EPSI Vendor Support]
+2018-07-22 11:45:14 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JCusick, User Name=John Cusick, End Date=2018-07-26 00:00:00.0000000, Job Title=EPSI Vendor Support]
+2018-07-22 11:45:14 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JBenne, User Name=Jeffrey Benne, End Date=2018-07-26 00:00:00.0000000, Job Title=EPSI Vendor Support]
+2018-07-22 11:45:18 INFO  MailServiceImpl:51 - Message has been sent to: SJain@stanfordchildrens.org
+2018-07-22 11:45:48 INFO  MailServiceImpl:42 - Sending message to: NHowell@stanfordchildrens.org
+2018-07-22 11:45:48 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=NBravo, User Name=Nora Dee Bravo, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 11:45:52 INFO  MailServiceImpl:51 - Message has been sent to: NHowell@stanfordchildrens.org
+2018-07-22 11:46:22 INFO  MailServiceImpl:42 - Sending message to: MBrinkerhoff@stanfordchildrens.org
+2018-07-22 11:46:22 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=KCostello, User Name=Kathleen Costello, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 11:46:22 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JaJackson, User Name=Jasmyne Jackson, End Date=2018-07-23 00:00:00.0000000, Job Title=OB Tech]
+2018-07-22 11:46:27 INFO  MailServiceImpl:51 - Message has been sent to: MBrinkerhoff@stanfordchildrens.org
+2018-07-22 11:46:57 INFO  MailServiceImpl:42 - Sending message to: Lloyd.Hickernell@nttdata.com
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=ShKumar, User Name=Shiv Kumar, End Date=2018-08-02 00:00:00.0000000, Job Title=DBA Advisor]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=YCapetillo, User Name=Yvonne Capetillo, End Date=2018-08-02 00:00:00.0000000, Job Title=Network Design Advisor]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=RanSingh, User Name=Ranvir Singh, End Date=2018-08-02 00:00:00.0000000, Job Title=Network Design Sr. Analyst]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=ASpac, User Name=Andrei Spac, End Date=2018-08-02 00:00:00.0000000, Job Title=Linux System Administrato]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MRathi, User Name=Mayank Rathi, End Date=2018-08-02 00:00:00.0000000, Job Title=Network Analyst]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=PraSingh, User Name=Pradeep Singh, End Date=2018-08-02 00:00:00.0000000, Job Title=Sr. Associate Netops]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=DPawar, User Name=Dinesh Pawar, End Date=2018-08-01 00:00:00.0000000, Job Title=Linux Admin]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=AEzzeddine, User Name=Adam Ezzeddine, End Date=2018-08-01 00:00:00.0000000, Job Title=Senior UC Specialist]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=UTripathi, User Name=Udbhav Tripathi, End Date=2018-08-02 00:00:00.0000000, Job Title=System Support Sr. Associate]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=TEadens, User Name=Troy Eadens, End Date=2018-08-02 00:00:00.0000000, Job Title=Service Desk Agent]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=HAhuja, User Name=Heena Ahuja, End Date=2018-08-01 00:00:00.0000000, Job Title=Linux Admin]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=fseyed, User Name=Farid Seyed, End Date=2018-08-01 00:00:00.0000000, Job Title=Senior UC Specialist]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=HKumar, User Name=Hema Kumar, End Date=2018-08-01 00:00:00.0000000, Job Title=Linux Admin]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=RoGupta, User Name=Rohit Gupta, End Date=2018-08-02 00:00:00.0000000, Job Title=Network Design Sr. Advisor]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=NRaizada, User Name=Nishtha Raizada, End Date=2018-08-02 00:00:00.0000000, Job Title=Sr. Associate Netops]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MKumari, User Name=Manisha Kumari, End Date=2018-08-03 00:00:00.0000000, Job Title=Espt Team]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=DuSingh, User Name=Dushyant Singh, End Date=2018-08-02 00:00:00.0000000, Job Title=Network Design Sr. Analyst]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=NMehrotra, User Name=Nikita Mehrotra, End Date=2018-08-02 00:00:00.0000000, Job Title=Network Support Analyst]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=STripathy, User Name=Sasmita Tripathy, End Date=2018-08-01 00:00:00.0000000, Job Title=Linux Admin]
+2018-07-22 11:46:57 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SMandar, User Name=Sachin Mandar, End Date=2018-08-02 00:00:00.0000000, Job Title=Network Manager II]
+2018-07-22 11:47:00 INFO  MailServiceImpl:51 - Message has been sent to: Lloyd.Hickernell@nttdata.com
+2018-07-22 11:47:30 INFO  MailServiceImpl:42 - Sending message to: ATaylor@stanfordchildrens.org
+2018-07-22 11:47:30 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=AHeitner, User Name=Abigail Heitner, End Date=2018-07-31 00:00:00.0000000, Job Title=Clincial Nurse]
+2018-07-22 11:47:34 INFO  MailServiceImpl:51 - Message has been sent to: ATaylor@stanfordchildrens.org
+2018-07-22 11:48:04 INFO  MailServiceImpl:42 - Sending message to: KCueto@stanfordchildrens.org
+2018-07-22 11:48:04 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=HBye, User Name=Haley Bye, End Date=2018-07-24 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 11:48:35 INFO  MailServiceImpl:51 - Message has been sent to: KCueto@stanfordchildrens.org
+2018-07-22 11:49:05 INFO  MailServiceImpl:42 - Sending message to: NMusumeci@stanfordchildrens.org
+2018-07-22 11:49:05 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=LLopes, User Name=Logan Lopes, End Date=2018-08-02 00:00:00.0000000, Job Title=Procurement Assistant]
+2018-07-22 11:49:15 INFO  MailServiceImpl:51 - Message has been sent to: NMusumeci@stanfordchildrens.org
+2018-07-22 11:49:45 INFO  MailServiceImpl:42 - Sending message to: NRathore@stanfordchildrens.org
+2018-07-22 11:49:45 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=RiDawson, User Name=Richie Dawson, End Date=2018-08-05 00:00:00.0000000, Job Title=PASC Scheduler]
+2018-07-22 11:49:48 INFO  MailServiceImpl:51 - Message has been sent to: NRathore@stanfordchildrens.org
+2018-07-22 11:50:18 INFO  MailServiceImpl:42 - Sending message to: JWayne@stanfordchildrens.org
+2018-07-22 11:50:18 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=ChiFernandez, User Name=Chip Fernandez, End Date=2018-08-01 00:00:00.0000000, Job Title=Donor Network West - EHR Mgr]
+2018-07-22 11:50:29 INFO  MailServiceImpl:51 - Message has been sent to: JWayne@stanfordchildrens.org
+2018-07-22 11:50:59 INFO  MailServiceImpl:42 - Sending message to: KReddipeta@stanfordchildrens.org
+2018-07-22 11:50:59 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=AnJennings, User Name=Ann Jennings, End Date=2018-08-01 00:00:00.0000000, Job Title=InFlight Engagement Mgr]
+2018-07-22 11:51:03 INFO  MailServiceImpl:51 - Message has been sent to: KReddipeta@stanfordchildrens.org
+2018-07-22 11:51:33 INFO  MailServiceImpl:42 - Sending message to: MRivera@stanfordchildrens.org
+2018-07-22 11:51:33 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=LWright, User Name=Lisa Wright, End Date=2018-08-01 00:00:00.0000000, Job Title=MPI]
+2018-07-22 11:51:37 INFO  MailServiceImpl:51 - Message has been sent to: MRivera@stanfordchildrens.org
+2018-07-22 11:52:07 INFO  MailServiceImpl:42 - Sending message to: GEncinias@stanfordchildrens.org
+2018-07-22 11:52:07 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=TeMoore, User Name=Teddi Moore, End Date=2018-08-05 04:00:00.0000000, Job Title=X Ray Technologist]
+2018-07-22 11:52:07 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=PStanley, User Name=Parker Stanley, End Date=2018-08-01 00:00:00.0000000, Job Title=Sonographer]
+2018-07-22 11:52:11 INFO  MailServiceImpl:51 - Message has been sent to: GEncinias@stanfordchildrens.org
+2018-07-22 11:52:41 INFO  MailServiceImpl:42 - Sending message to: czolmierski@stanfordhealthcare.org
+2018-07-22 11:52:41 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=RoCruz, User Name=Roselyn Cruz, End Date=2018-08-04 00:00:00.0000000, Job Title=SUPPORT SERVICES ASSISTANT II]
+2018-07-22 11:52:44 INFO  MailServiceImpl:51 - Message has been sent to: czolmierski@stanfordhealthcare.org
+2018-07-22 11:53:14 INFO  MailServiceImpl:42 - Sending message to: AAtkinson2@stanfordchildrens.org
+2018-07-22 11:53:14 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SOspina, User Name=Sebastian Ospina, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 11:53:18 INFO  MailServiceImpl:51 - Message has been sent to: AAtkinson2@stanfordchildrens.org
+2018-07-22 11:53:48 INFO  MailServiceImpl:42 - Sending message to: dehrheart@stanfordchildrens.org
+2018-07-22 11:53:48 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=CValderrama, User Name=Carmela Valderrama, End Date=2018-08-01 00:00:00.0000000, Job Title=Scribe]
+2018-07-22 11:53:52 INFO  MailServiceImpl:51 - Message has been sent to: dehrheart@stanfordchildrens.org
+2018-07-22 11:54:22 INFO  MailServiceImpl:42 - Sending message to: PFlocas@stanfordchildrens.org
+2018-07-22 11:54:22 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=GCain, User Name=Gary Cain, End Date=2018-08-03 04:00:00.0000000, Job Title=Desktop Technician]
+2018-07-22 11:54:26 INFO  MailServiceImpl:51 - Message has been sent to: PFlocas@stanfordchildrens.org
+2018-07-22 11:54:56 INFO  MailServiceImpl:42 - Sending message to: JHerrera@stanfordchildrens.org
+2018-07-22 11:54:56 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=PSadhu, User Name=Patti Sadhu, End Date=2018-08-01 00:00:00.0000000, Job Title=Coding and Charge Entry Support Services]
+2018-07-22 11:54:59 INFO  MailServiceImpl:51 - Message has been sent to: JHerrera@stanfordchildrens.org
+2018-07-22 11:55:29 INFO  MailServiceImpl:42 - Sending message to: DScheinker@stanfordchildrens.org
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JWeger, User Name=Johnny Weger, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JHuckels, User Name=Jill Huckels, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=AndreLee, User Name=Andrew Lee, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=CHouse, User Name=Chelsea House, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=WCash, User Name=William Cash, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=VRiveraPeterson, User Name=Victoria Rivera-Peterson, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JBelz, User Name=Jennifer Belz, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=WMcMahon, User Name=Wills McMahon, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=BDKaplun, User Name=Brian Kaplun, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=AChemparathy, User Name=Augustine Chemparathy, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=AJahansouz, User Name=Alison Jahansouz, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=KJainPoster, User Name=Ketan Jain-Poster, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=AParamo, User Name=Alex Paramo, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SyZhang, User Name=Sylvia Zhang, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=BMarafino, User Name=Ben Marafino, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=GIDuran, User Name=Gabriel Rosen-Duran, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SMirchandani, User Name=Simran Mirchandani, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MBecich, User Name=Michael Becich, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JRathmell, User Name=James Rathmell, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 11:55:33 INFO  MailServiceImpl:51 - Message has been sent to: DScheinker@stanfordchildrens.org
+2018-07-22 11:56:03 INFO  MailServiceImpl:42 - Sending message to: TNguyen@stanfordchildrens.org
+2018-07-22 11:56:03 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=DHammerich, User Name=Doris Hammerich, End Date=2018-08-05 00:00:00.0000000, Job Title=Medical Assistant II]
+2018-07-22 11:56:06 INFO  MailServiceImpl:51 - Message has been sent to: TNguyen@stanfordchildrens.org
+2018-07-22 11:56:36 INFO  MailServiceImpl:42 - Sending message to: AnPande@stanfordchildrens.org
+2018-07-22 11:56:36 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JTsang, User Name=James Tsang, End Date=2018-08-02 00:00:00.0000000, Job Title=Network Engineer]
+2018-07-22 11:56:39 INFO  MailServiceImpl:51 - Message has been sent to: AnPande@stanfordchildrens.org
+2018-07-22 11:57:09 INFO  MailServiceImpl:42 - Sending message to: TMak@stanfordchildrens.org
+2018-07-22 11:57:09 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=HNejadnik, User Name=Hossein Nejadnik, End Date=2018-08-01 00:00:00.0000000, Job Title=CLINICAL LIFE RES SCIENTIST]
+2018-07-22 11:57:13 INFO  MailServiceImpl:51 - Message has been sent to: TMak@stanfordchildrens.org
+2018-07-22 11:57:43 INFO  MailServiceImpl:42 - Sending message to: JEttleman@stanfordchildrens.org
+2018-07-22 11:57:43 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=JBerrios, User Name=John Berrios, End Date=2018-08-01 00:00:00.0000000, Job Title=Respiratory Care Practioner]
+2018-07-22 11:57:46 INFO  MailServiceImpl:51 - Message has been sent to: JEttleman@stanfordchildrens.org
+2018-07-22 11:58:16 INFO  MailServiceImpl:42 - Sending message to: XiChen@stanfordchildrens.org
+2018-07-22 11:58:16 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=TAppfix, User Name=TestEPIC Appfix, End Date=2018-07-31 04:00:00.0000000, Job Title=PCHA Staff]
+2018-07-22 11:58:16 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=TLinkcreate, User Name=Testapp Linkcreate, End Date=2018-07-23 04:00:00.0000000, Job Title=PCHA Specialist]
+2018-07-22 11:58:19 INFO  MailServiceImpl:51 - Message has been sent to: XiChen@stanfordchildrens.org
+2018-07-22 11:58:49 INFO  MailServiceImpl:42 - Sending message to: LiBlack@stanfordhealthcare.org
+2018-07-22 11:58:49 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=RPuzon, User Name=Richard Puzon, End Date=2018-08-04 00:00:00.0000000, Job Title=Support Service Assistant II]
+2018-07-22 11:58:49 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=HGetasew, User Name=Habtamu Getasew, End Date=2018-08-04 00:00:00.0000000, Job Title=Support Services Asst]
+2018-07-22 11:58:52 INFO  MailServiceImpl:51 - Message has been sent to: LiBlack@stanfordhealthcare.org
+2018-07-22 11:59:22 INFO  MailServiceImpl:42 - Sending message to: RKoppolu@stanfordchildrens.org
+2018-07-22 11:59:22 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=StephSmith, User Name=Stephanie Smith, End Date=2018-07-31 00:00:00.0000000, Job Title=NP Student]
+2018-07-22 11:59:25 INFO  MailServiceImpl:51 - Message has been sent to: RKoppolu@stanfordchildrens.org
+2018-07-22 11:59:55 INFO  MailServiceImpl:42 - Sending message to: VYeluri@stanfordchildrens.org
+2018-07-22 11:59:55 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=BrLewis, User Name=Brendon Lewis, End Date=2018-08-01 00:00:00.0000000, Job Title=Implementation Engineer]
+2018-07-22 11:59:55 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=SKendall, User Name=Shane Kendall, End Date=2018-07-31 00:00:00.0000000, Job Title=Support Engineer]
+2018-07-22 11:59:59 INFO  MailServiceImpl:51 - Message has been sent to: VYeluri@stanfordchildrens.org
+2018-07-22 12:00:29 INFO  MailServiceImpl:42 - Sending message to: LSalleyMistele@stanfordchildrens.org
+2018-07-22 12:00:29 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=RichJames, User Name=Rich James, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 12:00:34 INFO  MailServiceImpl:51 - Message has been sent to: LSalleyMistele@stanfordchildrens.org
+2018-07-22 12:01:04 INFO  MailServiceImpl:42 - Sending message to: RuGutierrez@stanfordchildrens.org
+2018-07-22 12:01:04 INFO  MailServiceImpl:47 - Expiring User: UserInfo [User ID=MLantsberger, User Name=Megan Lantsberger, End Date=2018-08-02 00:00:00.0000000, Job Title=Scribe]
+2018-07-22 12:01:11 INFO  MailServiceImpl:51 - Message has been sent to: RuGutierrez@stanfordchildrens.org
+2018-07-22 12:01:41 INFO  MailServiceImpl:74 - Sending message to: SLoPresti@stanfordchildrens.org
+2018-07-22 12:01:41 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=SLoPresti, User Name=Sabrina LoPresti, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 12:01:48 INFO  MailServiceImpl:83 - Message has been sent to: SLoPresti@stanfordchildrens.org
+2018-07-22 12:02:18 INFO  MailServiceImpl:74 - Sending message to: NBravo@stanfordchildrens.org
+2018-07-22 12:02:18 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=NBravo, User Name=Nora Dee Bravo, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 12:02:22 INFO  MailServiceImpl:83 - Message has been sent to: NBravo@stanfordchildrens.org
+2018-07-22 12:02:52 INFO  MailServiceImpl:74 - Sending message to: Nikita.Mehrotra@Nttdata.com
+2018-07-22 12:02:52 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=NMehrotra, User Name=Nikita Mehrotra, End Date=2018-08-02 00:00:00.0000000, Job Title=Network Support Analyst]
+2018-07-22 12:02:55 INFO  MailServiceImpl:83 - Message has been sent to: Nikita.Mehrotra@Nttdata.com
+2018-07-22 12:03:25 INFO  MailServiceImpl:74 - Sending message to: mandy.love@nuance.com
+2018-07-22 12:03:25 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MaLove, User Name=Mandy Love, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP Remote Support Director]
+2018-07-22 12:03:29 INFO  MailServiceImpl:83 - Message has been sent to: mandy.love@nuance.com
+2018-07-22 12:03:59 INFO  MailServiceImpl:74 - Sending message to: MBecich@stanfordchildrens.org
+2018-07-22 12:03:59 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MBecich, User Name=Michael Becich, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:04:03 INFO  MailServiceImpl:83 - Message has been sent to: MBecich@stanfordchildrens.org
+2018-07-22 12:04:33 INFO  MailServiceImpl:74 - Sending message to: nitin.sharma13@nttdata.com
+2018-07-22 12:04:33 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=NiSharma, User Name=Nitin Sharma, End Date=2018-08-02 00:00:00.0000000, Job Title=System Administrator]
+2018-07-22 12:04:36 INFO  MailServiceImpl:83 - Message has been sent to: nitin.sharma13@nttdata.com
+2018-07-22 12:05:06 INFO  MailServiceImpl:74 - Sending message to: NRegtest@stanfordchildrens.org
+2018-07-22 12:05:06 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=NRegtest, User Name=NonEmp Regtest, End Date=2018-07-30 04:00:00.0000000, Job Title=IS Security Consultant]
+2018-07-22 12:05:10 INFO  MailServiceImpl:83 - Message has been sent to: NRegtest@stanfordchildrens.org
+2018-07-22 12:05:40 INFO  MailServiceImpl:74 - Sending message to: RoCruz@stanfordhealthcare.org
+2018-07-22 12:05:40 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=RoCruz, User Name=Roselyn Cruz, End Date=2018-08-04 00:00:00.0000000, Job Title=SUPPORT SERVICES ASSISTANT II]
+2018-07-22 12:05:42 INFO  MailServiceImpl:83 - Message has been sent to: RoCruz@stanfordhealthcare.org
+2018-07-22 12:06:12 INFO  MailServiceImpl:74 - Sending message to: Hgumagay@stanfordchildrens.org
+2018-07-22 12:06:12 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=Hgumagay, User Name=Hope Gumagay, End Date=2018-08-01 00:00:00.0000000, Job Title=Admin]
+2018-07-22 12:06:16 INFO  MailServiceImpl:83 - Message has been sent to: Hgumagay@stanfordchildrens.org
+2018-07-22 12:06:46 INFO  MailServiceImpl:74 - Sending message to: GGarbers@stanfordchildrens.org
+2018-07-22 12:06:46 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=GGarbers, User Name=Gus Garbers, End Date=2018-07-26 00:00:00.0000000, Job Title=Buyer]
+2018-07-22 12:06:54 INFO  MailServiceImpl:83 - Message has been sent to: GGarbers@stanfordchildrens.org
+2018-07-22 12:07:24 INFO  MailServiceImpl:74 - Sending message to: MiBass@stanfordchildrens.org
+2018-07-22 12:07:24 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MiBass, User Name=Michelle Bass, End Date=2018-08-02 00:00:00.0000000, Job Title=Population Research Librarian]
+2018-07-22 12:07:29 INFO  MailServiceImpl:83 - Message has been sent to: MiBass@stanfordchildrens.org
+2018-07-22 12:07:59 INFO  MailServiceImpl:74 - Sending message to: HPlanchart@stanfordchildrens.org
+2018-07-22 12:07:59 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=HPlanchart, User Name=Hazel Planchart, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 12:08:03 INFO  MailServiceImpl:83 - Message has been sent to: HPlanchart@stanfordchildrens.org
+2018-07-22 12:08:33 INFO  MailServiceImpl:74 - Sending message to: MChristofferson@stanfordchildrens.org
+2018-07-22 12:08:33 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MChristofferson, User Name=Megan Christofferson, End Date=2018-08-01 00:00:00.0000000, Job Title=Admin]
+2018-07-22 12:08:42 INFO  MailServiceImpl:83 - Message has been sent to: MChristofferson@stanfordchildrens.org
+2018-07-22 12:09:12 INFO  MailServiceImpl:74 - Sending message to: JHuckels@stanfordchildrens.org
+2018-07-22 12:09:12 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=JHuckels, User Name=Jill Huckels, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:09:17 INFO  MailServiceImpl:83 - Message has been sent to: JHuckels@stanfordchildrens.org
+2018-07-22 12:09:47 INFO  MailServiceImpl:74 - Sending message to: JSessler@stanfordchildrens.org
+2018-07-22 12:09:47 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=JSessler, User Name=Jeri Sessler, End Date=2018-08-02 00:00:00.0000000, Job Title=Interim Procurement and Category Manager]
+2018-07-22 12:09:50 INFO  MailServiceImpl:83 - Message has been sent to: JSessler@stanfordchildrens.org
+2018-07-22 12:10:20 INFO  MailServiceImpl:74 - Sending message to: Mayank.Rathi@nttdata.com
+2018-07-22 12:10:20 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MRathi, User Name=Mayank Rathi, End Date=2018-08-02 00:00:00.0000000, Job Title=Network Analyst]
+2018-07-22 12:10:23 INFO  MailServiceImpl:83 - Message has been sent to: Mayank.Rathi@nttdata.com
+2018-07-22 12:10:53 INFO  MailServiceImpl:74 - Sending message to: YMarteNunez@stanfordchildrens.org
+2018-07-22 12:10:53 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=YMarteNunez, User Name=Yinett Marte Nunez, End Date=2018-07-31 00:00:00.0000000, Job Title=Sterile Processor]
+2018-07-22 12:10:57 INFO  MailServiceImpl:83 - Message has been sent to: YMarteNunez@stanfordchildrens.org
+2018-07-22 12:11:27 INFO  MailServiceImpl:74 - Sending message to: SOspina@stanfordchildrens.org
+2018-07-22 12:11:27 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=SOspina, User Name=Sebastian Ospina, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 12:11:31 INFO  MailServiceImpl:83 - Message has been sent to: SOspina@stanfordchildrens.org
+2018-07-22 12:12:01 INFO  MailServiceImpl:74 - Sending message to: AJahansouz@stanfordchildrens.org
+2018-07-22 12:12:01 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=AJahansouz, User Name=Alison Jahansouz, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:12:06 INFO  MailServiceImpl:83 - Message has been sent to: AJahansouz@stanfordchildrens.org
+2018-07-22 12:12:36 INFO  MailServiceImpl:74 - Sending message to: HGETASEW@STANFORDHEALTHCARE.ORG
+2018-07-22 12:12:36 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=HGetasew, User Name=Habtamu Getasew, End Date=2018-08-04 00:00:00.0000000, Job Title=Support Services Asst]
+2018-07-22 12:12:38 INFO  MailServiceImpl:83 - Message has been sent to: HGETASEW@STANFORDHEALTHCARE.ORG
+2018-07-22 12:13:08 INFO  MailServiceImpl:74 - Sending message to: WAbston@stanfordchildrens.org
+2018-07-22 12:13:08 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=WAbston, User Name=William Abston, End Date=2018-08-01 00:00:00.0000000, Job Title=SD Agent]
+2018-07-22 12:13:12 INFO  MailServiceImpl:83 - Message has been sent to: WAbston@stanfordchildrens.org
+2018-07-22 12:13:42 INFO  MailServiceImpl:74 - Sending message to: taylor.costa@cw.bc.ca
+2018-07-22 12:13:42 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=tcosta, User Name=taylor costa, End Date=2018-08-01 04:00:00.0000000, Job Title=Genetic Counseling Intern]
+2018-07-22 12:13:45 INFO  MailServiceImpl:83 - Message has been sent to: taylor.costa@cw.bc.ca
+2018-07-22 12:14:15 INFO  MailServiceImpl:74 - Sending message to: AChemparathy@stanfordchildrens.org
+2018-07-22 12:14:15 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=AChemparathy, User Name=Augustine Chemparathy, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:14:20 INFO  MailServiceImpl:83 - Message has been sent to: AChemparathy@stanfordchildrens.org
+2018-07-22 12:14:50 INFO  MailServiceImpl:74 - Sending message to: GCain@stanfordchildrens.org
+2018-07-22 12:14:50 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=GCain, User Name=Gary Cain, End Date=2018-08-03 04:00:00.0000000, Job Title=Desktop Technician]
+2018-07-22 12:14:53 INFO  MailServiceImpl:83 - Message has been sent to: GCain@stanfordchildrens.org
+2018-07-22 12:15:23 INFO  MailServiceImpl:74 - Sending message to: test@test.com
+2018-07-22 12:15:23 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=TAppfix, User Name=TestEPIC Appfix, End Date=2018-07-31 04:00:00.0000000, Job Title=PCHA Staff]
+2018-07-22 12:15:26 INFO  MailServiceImpl:83 - Message has been sent to: test@test.com
+2018-07-22 12:15:56 INFO  MailServiceImpl:74 - Sending message to: Dushyant_Singh@Dell.com
+2018-07-22 12:15:56 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=DuSingh, User Name=Dushyant Singh, End Date=2018-08-02 00:00:00.0000000, Job Title=Network Design Sr. Analyst]
+2018-07-22 12:15:59 INFO  MailServiceImpl:83 - Message has been sent to: Dushyant_Singh@Dell.com
+2018-07-22 12:16:29 INFO  MailServiceImpl:74 - Sending message to: Rohit_Gupta3@Dell.com
+2018-07-22 12:16:29 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=RoGupta, User Name=Rohit Gupta, End Date=2018-08-02 00:00:00.0000000, Job Title=Network Design Sr. Advisor]
+2018-07-22 12:16:32 INFO  MailServiceImpl:83 - Message has been sent to: Rohit_Gupta3@Dell.com
+2018-07-22 12:17:02 INFO  MailServiceImpl:74 - Sending message to: TeMoore@stanfordchildrens.org
+2018-07-22 12:17:02 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=TeMoore, User Name=Teddi Moore, End Date=2018-08-05 04:00:00.0000000, Job Title=X Ray Technologist]
+2018-07-22 12:17:07 INFO  MailServiceImpl:83 - Message has been sent to: TeMoore@stanfordchildrens.org
+2018-07-22 12:17:37 INFO  MailServiceImpl:74 - Sending message to: Tarun_Baweja@dell.com
+2018-07-22 12:17:37 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=TBaweja, User Name=Tarun Baweja, End Date=2018-08-02 00:00:00.0000000, Job Title=Sysadmin Advisor]
+2018-07-22 12:17:45 INFO  MailServiceImpl:83 - Message has been sent to: Tarun_Baweja@dell.com
+2018-07-22 12:18:15 INFO  MailServiceImpl:74 - Sending message to: CrisHernandez@stanfordchildrens.org
+2018-07-22 12:18:15 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=CrisHernandez, User Name=Cristina Hernandez, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 12:18:19 INFO  MailServiceImpl:83 - Message has been sent to: CrisHernandez@stanfordchildrens.org
+2018-07-22 12:18:49 INFO  MailServiceImpl:74 - Sending message to: DMatias@stanfordchildrens.org
+2018-07-22 12:18:49 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=dmatias, User Name=Dennis Matias, End Date=2018-07-28 00:00:00.0000000, Job Title=Mobility Device Engineer]
+2018-07-22 12:18:54 INFO  MailServiceImpl:83 - Message has been sent to: DMatias@stanfordchildrens.org
+2018-07-22 12:19:24 INFO  MailServiceImpl:74 - Sending message to: RichJames@stanfordchildrens.org
+2018-07-22 12:19:24 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=RichJames, User Name=Rich James, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 12:19:55 INFO  MailServiceImpl:83 - Message has been sent to: RichJames@stanfordchildrens.org
+2018-07-22 12:20:25 INFO  MailServiceImpl:74 - Sending message to: neville.latchman@siriuscom.com
+2018-07-22 12:20:25 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=NLatchman, User Name=Newille Latchman, End Date=2018-07-28 00:00:00.0000000, Job Title=Sr. Network Solutions Eng]
+2018-07-22 12:20:34 INFO  MailServiceImpl:83 - Message has been sent to: neville.latchman@siriuscom.com
+2018-07-22 12:21:04 INFO  MailServiceImpl:74 - Sending message to: LWright@stanfordchildrens.org
+2018-07-22 12:21:04 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=LWright, User Name=Lisa Wright, End Date=2018-08-01 00:00:00.0000000, Job Title=MPI]
+2018-07-22 12:21:07 INFO  MailServiceImpl:83 - Message has been sent to: LWright@stanfordchildrens.org
+2018-07-22 12:21:37 INFO  MailServiceImpl:74 - Sending message to: JWeger@stanfordchildrens.org
+2018-07-22 12:21:37 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=JWeger, User Name=Johnny Weger, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:21:41 INFO  MailServiceImpl:83 - Message has been sent to: JWeger@stanfordchildrens.org
+2018-07-22 12:22:11 INFO  MailServiceImpl:74 - Sending message to: GIDuran@stanfordchildrens.org
+2018-07-22 12:22:11 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=GIDuran, User Name=Gabriel Rosen-Duran, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:22:15 INFO  MailServiceImpl:83 - Message has been sent to: GIDuran@stanfordchildrens.org
+2018-07-22 12:22:45 INFO  MailServiceImpl:74 - Sending message to: AOsserBurgess@stanfordchildrens.org
+2018-07-22 12:22:45 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=AOsserBurgess, User Name=April Osser Burgess, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 12:22:51 INFO  MailServiceImpl:83 - Message has been sent to: AOsserBurgess@stanfordchildrens.org
+2018-07-22 12:23:21 INFO  MailServiceImpl:74 - Sending message to: JBerrios@stanfordchildrens.org
+2018-07-22 12:23:21 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=JBerrios, User Name=John Berrios, End Date=2018-08-01 00:00:00.0000000, Job Title=Respiratory Care Practioner]
+2018-07-22 12:23:24 INFO  MailServiceImpl:83 - Message has been sent to: JBerrios@stanfordchildrens.org
+2018-07-22 12:23:54 INFO  MailServiceImpl:74 - Sending message to: AGuerino@stanfordchildrens.org
+2018-07-22 12:23:54 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=AGuerino, User Name=Angelica Guerino, End Date=2018-08-02 00:00:00.0000000, Job Title=Clinical Assistant II]
+2018-07-22 12:24:00 INFO  MailServiceImpl:83 - Message has been sent to: AGuerino@stanfordchildrens.org
+2018-07-22 12:24:30 INFO  MailServiceImpl:74 - Sending message to: shiv14.kumar@nttdata.com
+2018-07-22 12:24:30 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=ShKumar, User Name=Shiv Kumar, End Date=2018-08-02 00:00:00.0000000, Job Title=DBA Advisor]
+2018-07-22 12:24:33 INFO  MailServiceImpl:83 - Message has been sent to: shiv14.kumar@nttdata.com
+2018-07-22 12:25:03 INFO  MailServiceImpl:74 - Sending message to: ACarmona@stanfordchildrens.org
+2018-07-22 12:25:03 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=ACarmona, User Name=Angelli Carmona, End Date=2018-08-01 00:00:00.0000000, Job Title=Administrative Associate]
+2018-07-22 12:25:06 INFO  MailServiceImpl:83 - Message has been sent to: ACarmona@stanfordchildrens.org
+2018-07-22 12:25:36 INFO  MailServiceImpl:74 - Sending message to: Arun11.Srivastava@nttdata.com
+2018-07-22 12:25:36 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=ArSrivastava, User Name=Arun Srivastava, End Date=2018-08-02 00:00:00.0000000, Job Title=System Administrator]
+2018-07-22 12:25:39 INFO  MailServiceImpl:83 - Message has been sent to: Arun11.Srivastava@nttdata.com
+2018-07-22 12:26:09 INFO  MailServiceImpl:74 - Sending message to: WCash@stanfordchildrens.org
+2018-07-22 12:26:09 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=WCash, User Name=William Cash, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:26:13 INFO  MailServiceImpl:83 - Message has been sent to: WCash@stanfordchildrens.org
+2018-07-22 12:26:43 INFO  MailServiceImpl:74 - Sending message to: AnJennings@stanfordchildrens.org
+2018-07-22 12:26:43 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=AnJennings, User Name=Ann Jennings, End Date=2018-08-01 00:00:00.0000000, Job Title=InFlight Engagement Mgr]
+2018-07-22 12:26:46 INFO  MailServiceImpl:83 - Message has been sent to: AnJennings@stanfordchildrens.org
+2018-07-22 12:27:16 INFO  MailServiceImpl:74 - Sending message to: AndreLee@stanfordchildrens.org
+2018-07-22 12:27:16 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=AndreLee, User Name=Andrew Lee, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:27:20 INFO  MailServiceImpl:83 - Message has been sent to: AndreLee@stanfordchildrens.org
+2018-07-22 12:27:50 INFO  MailServiceImpl:74 - Sending message to: BMarafino@stanfordchildrens.org
+2018-07-22 12:27:50 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=BMarafino, User Name=Ben Marafino, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:27:54 INFO  MailServiceImpl:83 - Message has been sent to: BMarafino@stanfordchildrens.org
+2018-07-22 12:28:24 INFO  MailServiceImpl:74 - Sending message to: DHammerich@stanfordchildrens.org
+2018-07-22 12:28:24 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=DHammerich, User Name=Doris Hammerich, End Date=2018-08-05 00:00:00.0000000, Job Title=Medical Assistant II]
+2018-07-22 12:28:28 INFO  MailServiceImpl:83 - Message has been sent to: DHammerich@stanfordchildrens.org
+2018-07-22 12:28:58 INFO  MailServiceImpl:74 - Sending message to: BDKaplun@stanfordchildrens.org
+2018-07-22 12:28:58 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=BDKaplun, User Name=Brian Kaplun, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:29:02 INFO  MailServiceImpl:83 - Message has been sent to: BDKaplun@stanfordchildrens.org
+2018-07-22 12:29:32 INFO  MailServiceImpl:74 - Sending message to: CCardell@stanfordchildrens.org
+2018-07-22 12:29:32 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=CCardell, User Name=Chia-Yu Cardell, End Date=2018-07-23 00:00:00.0000000, Job Title=Sleep Technologist]
+2018-07-22 12:29:36 INFO  MailServiceImpl:83 - Message has been sent to: CCardell@stanfordchildrens.org
+2018-07-22 12:30:06 INFO  MailServiceImpl:74 - Sending message to: kevans@stanfordchildrens.org
+2018-07-22 12:30:06 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=KEvans, User Name=Katie Evans, End Date=2018-08-01 00:00:00.0000000, Job Title=Communications Specialist]
+2018-07-22 12:30:09 INFO  MailServiceImpl:83 - Message has been sent to: kevans@stanfordchildrens.org
+2018-07-22 12:30:39 INFO  MailServiceImpl:74 - Sending message to: WMcMahon@stanfordchildrens.org
+2018-07-22 12:30:39 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=WMcMahon, User Name=Wills McMahon, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:30:43 INFO  MailServiceImpl:83 - Message has been sent to: WMcMahon@stanfordchildrens.org
+2018-07-22 12:31:13 INFO  MailServiceImpl:74 - Sending message to: PStanley@stanfordchildrens.org
+2018-07-22 12:31:13 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=PStanley, User Name=Parker Stanley, End Date=2018-08-01 00:00:00.0000000, Job Title=Sonographer]
+2018-07-22 12:31:17 INFO  MailServiceImpl:83 - Message has been sent to: PStanley@stanfordchildrens.org
+2018-07-22 12:31:47 INFO  MailServiceImpl:74 - Sending message to: ToGomez@stanfordchildrens.org
+2018-07-22 12:31:47 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=ToGomez, User Name=Tonia Gomez, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 12:31:51 INFO  MailServiceImpl:83 - Message has been sent to: ToGomez@stanfordchildrens.org
+2018-07-22 12:32:21 INFO  MailServiceImpl:74 - Sending message to: Deepak.Sharma19@nttdata.com
+2018-07-22 12:32:21 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=DeSharma, User Name=Deepak Sharma, End Date=2018-08-02 00:00:00.0000000, Job Title=System Admin]
+2018-07-22 12:32:23 INFO  MailServiceImpl:83 - Message has been sent to: Deepak.Sharma19@nttdata.com
+2018-07-22 12:32:53 INFO  MailServiceImpl:74 - Sending message to: nishtha.raizada@nttdata.com
+2018-07-22 12:32:53 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=NRaizada, User Name=Nishtha Raizada, End Date=2018-08-02 00:00:00.0000000, Job Title=Sr. Associate Netops]
+2018-07-22 12:32:56 INFO  MailServiceImpl:83 - Message has been sent to: nishtha.raizada@nttdata.com
+2018-07-22 12:33:26 INFO  MailServiceImpl:74 - Sending message to: JHouse@stanfordchildrens.org
+2018-07-22 12:33:26 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=JHouse, User Name=Jen House, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 12:33:29 INFO  MailServiceImpl:83 - Message has been sent to: JHouse@stanfordchildrens.org
+2018-07-22 12:33:59 INFO  MailServiceImpl:74 - Sending message to: Udbhav_Tripathi@Dell.com
+2018-07-22 12:33:59 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=UTripathi, User Name=Udbhav Tripathi, End Date=2018-08-02 00:00:00.0000000, Job Title=System Support Sr. Associate]
+2018-07-22 12:34:01 INFO  MailServiceImpl:83 - Message has been sent to: Udbhav_Tripathi@Dell.com
+2018-07-22 12:34:31 INFO  MailServiceImpl:74 - Sending message to: Stuart.Johnson@siriuscom.com
+2018-07-22 12:34:31 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=StuJohnson, User Name=Stuart Johnson, End Date=2018-07-28 00:00:00.0000000, Job Title=Managed SVC NC Operations -CSI]
+2018-07-22 12:34:34 INFO  MailServiceImpl:83 - Message has been sent to: Stuart.Johnson@siriuscom.com
+2018-07-22 12:35:04 INFO  MailServiceImpl:74 - Sending message to: Yvonne_Capetillo@DELL.com
+2018-07-22 12:35:04 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=YCapetillo, User Name=Yvonne Capetillo, End Date=2018-08-02 00:00:00.0000000, Job Title=Network Design Advisor]
+2018-07-22 12:35:06 INFO  MailServiceImpl:83 - Message has been sent to: Yvonne_Capetillo@DELL.com
+2018-07-22 12:35:36 INFO  MailServiceImpl:74 - Sending message to: MSalazar@stanfordchildrens.org
+2018-07-22 12:35:36 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MSalazar, User Name=Maribel Salazar, End Date=2018-08-02 00:00:00.0000000, Job Title=Customer Service Representative]
+2018-07-22 12:35:40 INFO  MailServiceImpl:83 - Message has been sent to: MSalazar@stanfordchildrens.org
+2018-07-22 12:36:10 INFO  MailServiceImpl:74 - Sending message to: MMaye@stanfordchildrens.org
+2018-07-22 12:36:10 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MMaye, User Name=Mary Maye, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 12:36:13 INFO  MailServiceImpl:83 - Message has been sent to: MMaye@stanfordchildrens.org
+2018-07-22 12:36:43 INFO  MailServiceImpl:74 - Sending message to: JRathmell@stanfordchildrens.org
+2018-07-22 12:36:43 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=JRathmell, User Name=James Rathmell, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:36:47 INFO  MailServiceImpl:83 - Message has been sent to: JRathmell@stanfordchildrens.org
+2018-07-22 12:37:17 INFO  MailServiceImpl:74 - Sending message to: NWalker@stanfordchildrens.org
+2018-07-22 12:37:17 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=NWalker, User Name=Nathan Walker, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 12:37:22 INFO  MailServiceImpl:83 - Message has been sent to: NWalker@stanfordchildrens.org
+2018-07-22 12:37:52 INFO  MailServiceImpl:74 - Sending message to: JChristensen@stanfordchildrens.org
+2018-07-22 12:37:52 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=JChristensen, User Name=Julie Christensen, End Date=2018-08-01 00:00:00.0000000, Job Title=RCP/Sleep Technologist]
+2018-07-22 12:37:56 INFO  MailServiceImpl:83 - Message has been sent to: JChristensen@stanfordchildrens.org
+2018-07-22 12:38:26 INFO  MailServiceImpl:74 - Sending message to: jopdenbrouw@medibase.com
+2018-07-22 12:38:26 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=JOpdenbrouw, User Name=Jenny Opdenbrouw, End Date=2018-08-01 00:00:00.0000000, Job Title=MediBase Consultant]
+2018-07-22 12:38:29 INFO  MailServiceImpl:83 - Message has been sent to: jopdenbrouw@medibase.com
+2018-07-22 12:38:59 INFO  MailServiceImpl:74 - Sending message to: CValderrama@stanfordchildrens.org
+2018-07-22 12:38:59 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=CValderrama, User Name=Carmela Valderrama, End Date=2018-08-01 00:00:00.0000000, Job Title=Scribe]
+2018-07-22 12:39:03 INFO  MailServiceImpl:83 - Message has been sent to: CValderrama@stanfordchildrens.org
+2018-07-22 12:39:33 INFO  MailServiceImpl:74 - Sending message to: Manisha.Kumari@nttdata.com
+2018-07-22 12:39:33 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MKumari, User Name=Manisha Kumari, End Date=2018-08-03 00:00:00.0000000, Job Title=Espt Team]
+2018-07-22 12:39:36 INFO  MailServiceImpl:83 - Message has been sent to: Manisha.Kumari@nttdata.com
+2018-07-22 12:40:06 INFO  MailServiceImpl:74 - Sending message to: LManter@stanfordchildrens.org
+2018-07-22 12:40:06 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=LManter, User Name=Lee Manter, End Date=2018-08-01 00:00:00.0000000, Job Title=IS Project Engineer]
+2018-07-22 12:40:11 INFO  MailServiceImpl:83 - Message has been sent to: LManter@stanfordchildrens.org
+2018-07-22 12:40:41 INFO  MailServiceImpl:74 - Sending message to: KJainPoster@stanfordchildrens.org
+2018-07-22 12:40:41 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=KJainPoster, User Name=Ketan Jain-Poster, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:40:45 INFO  MailServiceImpl:83 - Message has been sent to: KJainPoster@stanfordchildrens.org
+2018-07-22 12:41:15 INFO  MailServiceImpl:74 - Sending message to: LInman@stanfordchildrens.org
+2018-07-22 12:41:15 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=LInman, User Name=Lauren Inman, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 12:41:19 INFO  MailServiceImpl:83 - Message has been sent to: LInman@stanfordchildrens.org
+2018-07-22 12:41:49 INFO  MailServiceImpl:74 - Sending message to: hnejadni@stanford.edu
+2018-07-22 12:41:49 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=HNejadnik, User Name=Hossein Nejadnik, End Date=2018-08-01 00:00:00.0000000, Job Title=CLINICAL LIFE RES SCIENTIST]
+2018-07-22 12:41:52 INFO  MailServiceImpl:83 - Message has been sent to: hnejadni@stanford.edu
+2018-07-22 12:42:22 INFO  MailServiceImpl:74 - Sending message to: JTsang@stanfordchildrens.org
+2018-07-22 12:42:22 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=JTsang, User Name=James Tsang, End Date=2018-08-02 00:00:00.0000000, Job Title=Network Engineer]
+2018-07-22 12:42:27 INFO  MailServiceImpl:83 - Message has been sent to: JTsang@stanfordchildrens.org
+2018-07-22 12:42:57 INFO  MailServiceImpl:74 - Sending message to: fseyed@stanfordchildrens.org
+2018-07-22 12:42:57 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=fseyed, User Name=Farid Seyed, End Date=2018-08-01 00:00:00.0000000, Job Title=Senior UC Specialist]
+2018-07-22 12:43:01 INFO  MailServiceImpl:83 - Message has been sent to: fseyed@stanfordchildrens.org
+2018-07-22 12:43:31 INFO  MailServiceImpl:74 - Sending message to: ChiFernandez@stanfordchildrens.org
+2018-07-22 12:43:31 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=ChiFernandez, User Name=Chip Fernandez, End Date=2018-08-01 00:00:00.0000000, Job Title=Donor Network West - EHR Mgr]
+2018-07-22 12:43:36 INFO  MailServiceImpl:83 - Message has been sent to: ChiFernandez@stanfordchildrens.org
+2018-07-22 12:44:06 INFO  MailServiceImpl:74 - Sending message to: SQuimby@stanfordchildrens.org
+2018-07-22 12:44:06 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=SQuimby, User Name=SellyAnn Quimby, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 12:44:10 INFO  MailServiceImpl:83 - Message has been sent to: SQuimby@stanfordchildrens.org
+2018-07-22 12:44:40 INFO  MailServiceImpl:74 - Sending message to: SMirchandani@stanfordchildrens.org
+2018-07-22 12:44:40 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=SMirchandani, User Name=Simran Mirchandani, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:44:44 INFO  MailServiceImpl:83 - Message has been sent to: SMirchandani@stanfordchildrens.org
+2018-07-22 12:45:14 INFO  MailServiceImpl:74 - Sending message to: BLyons@stanfordchildrens.org
+2018-07-22 12:45:14 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=BLyons, User Name=Brittany Lyons, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 12:45:19 INFO  MailServiceImpl:83 - Message has been sent to: BLyons@stanfordchildrens.org
+2018-07-22 12:45:49 INFO  MailServiceImpl:74 - Sending message to: AParamo@stanfordchildrens.org
+2018-07-22 12:45:49 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=AParamo, User Name=Alex Paramo, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:45:54 INFO  MailServiceImpl:83 - Message has been sent to: AParamo@stanfordchildrens.org
+2018-07-22 12:46:24 INFO  MailServiceImpl:74 - Sending message to: JClayton@stanfordchildrens.org
+2018-07-22 12:46:24 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=JClayton, User Name=Jennifer Clayton, End Date=2018-08-02 00:00:00.0000000, Job Title=SD Agent]
+2018-07-22 12:46:28 INFO  MailServiceImpl:83 - Message has been sent to: JClayton@stanfordchildrens.org
+2018-07-22 12:46:58 INFO  MailServiceImpl:74 - Sending message to: skendall@imagestreammedical.com
+2018-07-22 12:46:58 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=SKendall, User Name=Shane Kendall, End Date=2018-07-31 00:00:00.0000000, Job Title=Support Engineer]
+2018-07-22 12:47:30 INFO  MailServiceImpl:83 - Message has been sent to: skendall@imagestreammedical.com
+2018-07-22 12:48:00 INFO  MailServiceImpl:74 - Sending message to: LKeith@stanfordchildrens.org
+2018-07-22 12:48:00 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=LKeith, User Name=Lakesia Keith, End Date=2018-08-04 00:00:00.0000000, Job Title=Unit Secretary]
+2018-07-22 12:48:10 INFO  MailServiceImpl:83 - Message has been sent to: LKeith@stanfordchildrens.org
+2018-07-22 12:48:40 INFO  MailServiceImpl:74 - Sending message to: Pradeep13.Singh@nttdata.com
+2018-07-22 12:48:40 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=PraSingh, User Name=Pradeep Singh, End Date=2018-08-02 00:00:00.0000000, Job Title=Sr. Associate Netops]
+2018-07-22 12:48:44 INFO  MailServiceImpl:83 - Message has been sent to: Pradeep13.Singh@nttdata.com
+2018-07-22 12:49:14 INFO  MailServiceImpl:74 - Sending message to: Ranvir11.singh@nttdata.com
+2018-07-22 12:49:14 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=RanSingh, User Name=Ranvir Singh, End Date=2018-08-02 00:00:00.0000000, Job Title=Network Design Sr. Analyst]
+2018-07-22 12:49:16 INFO  MailServiceImpl:83 - Message has been sent to: Ranvir11.singh@nttdata.com
+2018-07-22 12:49:46 INFO  MailServiceImpl:74 - Sending message to: JBelz@stanfordchildrens.org
+2018-07-22 12:49:46 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=JBelz, User Name=Jennifer Belz, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:49:51 INFO  MailServiceImpl:83 - Message has been sent to: JBelz@stanfordchildrens.org
+2018-07-22 12:50:21 INFO  MailServiceImpl:74 - Sending message to: RPuzon@stanfordhealthcare.org
+2018-07-22 12:50:21 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=RPuzon, User Name=Richard Puzon, End Date=2018-08-04 00:00:00.0000000, Job Title=Support Service Assistant II]
+2018-07-22 12:50:24 INFO  MailServiceImpl:83 - Message has been sent to: RPuzon@stanfordhealthcare.org
+2018-07-22 12:50:54 INFO  MailServiceImpl:74 - Sending message to: GDishongh@stanfordchildrens.org
+2018-07-22 12:50:54 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=GDishongh, User Name=Grace Dishongh, End Date=2018-07-24 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 12:50:57 INFO  MailServiceImpl:83 - Message has been sent to: GDishongh@stanfordchildrens.org
+2018-07-22 12:51:27 INFO  MailServiceImpl:74 - Sending message to: ElaSalazar@stanfordchildrens.org
+2018-07-22 12:51:27 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=ElaSalazar, User Name=Elaine Salazar, End Date=2018-08-01 00:00:00.0000000, Job Title=Abstractor]
+2018-07-22 12:51:31 INFO  MailServiceImpl:83 - Message has been sent to: ElaSalazar@stanfordchildrens.org
+2018-07-22 12:52:01 INFO  MailServiceImpl:74 - Sending message to: AZimmerman@stanfordchildrens.org
+2018-07-22 12:52:01 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=AZimmerman, User Name=Austin Zimmerman, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 12:52:05 INFO  MailServiceImpl:83 - Message has been sent to: AZimmerman@stanfordchildrens.org
+2018-07-22 12:52:35 INFO  MailServiceImpl:74 - Sending message to: aezzeddine@stanfordchildrens.org
+2018-07-22 12:52:35 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=AEzzeddine, User Name=Adam Ezzeddine, End Date=2018-08-01 00:00:00.0000000, Job Title=Senior UC Specialist]
+2018-07-22 12:52:40 INFO  MailServiceImpl:83 - Message has been sent to: aezzeddine@stanfordchildrens.org
+2018-07-22 12:53:10 INFO  MailServiceImpl:74 - Sending message to: KCostello@stanfordchildrens.org
+2018-07-22 12:53:10 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=KCostello, User Name=Kathleen Costello, End Date=2018-07-31 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 12:53:14 INFO  MailServiceImpl:83 - Message has been sent to: KCostello@stanfordchildrens.org
+2018-07-22 12:53:44 INFO  MailServiceImpl:74 - Sending message to: LLopes@stanfordchildrens.org
+2018-07-22 12:53:44 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=LLopes, User Name=Logan Lopes, End Date=2018-08-02 00:00:00.0000000, Job Title=Procurement Assistant]
+2018-07-22 12:53:48 INFO  MailServiceImpl:83 - Message has been sent to: LLopes@stanfordchildrens.org
+2018-07-22 12:54:18 INFO  MailServiceImpl:74 - Sending message to: MPlanchart@stanfordchildrens.org
+2018-07-22 12:54:18 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MPlanchart, User Name=Michael Planchart, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 12:54:23 INFO  MailServiceImpl:83 - Message has been sent to: MPlanchart@stanfordchildrens.org
+2018-07-22 12:54:53 INFO  MailServiceImpl:74 - Sending message to: RiDawson@stanfordchildrens.org
+2018-07-22 12:54:53 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=RiDawson, User Name=Richie Dawson, End Date=2018-08-05 00:00:00.0000000, Job Title=PASC Scheduler]
+2018-07-22 12:54:58 INFO  MailServiceImpl:83 - Message has been sent to: RiDawson@stanfordchildrens.org
+2018-07-22 12:55:28 INFO  MailServiceImpl:74 - Sending message to: Amit_Kumar79@Dell.com
+2018-07-22 12:55:28 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=AmiKumar, User Name=Amit Kumar, End Date=2018-08-02 00:00:00.0000000, Job Title=Linux Admin]
+2018-07-22 12:55:30 INFO  MailServiceImpl:83 - Message has been sent to: Amit_Kumar79@Dell.com
+2018-07-22 12:56:00 INFO  MailServiceImpl:74 - Sending message to: Sachin_Mandar@Dell.com
+2018-07-22 12:56:00 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=SMandar, User Name=Sachin Mandar, End Date=2018-08-02 00:00:00.0000000, Job Title=Network Manager II]
+2018-07-22 12:56:04 INFO  MailServiceImpl:83 - Message has been sent to: Sachin_Mandar@Dell.com
+2018-07-22 12:56:34 INFO  MailServiceImpl:74 - Sending message to: YChoi@stanfordchildrens.org
+2018-07-22 12:56:34 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=YChoi, User Name=Youmi Choi, End Date=2018-07-25 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 12:56:38 INFO  MailServiceImpl:83 - Message has been sent to: YChoi@stanfordchildrens.org
+2018-07-22 12:57:08 INFO  MailServiceImpl:74 - Sending message to: HBye@stanfordchildrens.org
+2018-07-22 12:57:08 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=HBye, User Name=Haley Bye, End Date=2018-07-24 00:00:00.0000000, Job Title=Clinical Nurse]
+2018-07-22 12:57:13 INFO  MailServiceImpl:83 - Message has been sent to: HBye@stanfordchildrens.org
+2018-07-22 12:57:43 INFO  MailServiceImpl:74 - Sending message to: IAnya@stanfordchildrens.org
+2018-07-22 12:57:43 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=IAnya, User Name=Ifeyinwa Anya, End Date=2018-08-04 00:00:00.0000000, Job Title=Nursing Assistant]
+2018-07-22 12:57:47 INFO  MailServiceImpl:83 - Message has been sent to: IAnya@stanfordchildrens.org
+2018-07-22 12:58:17 INFO  MailServiceImpl:74 - Sending message to: CHouse@stanfordchildrens.org
+2018-07-22 12:58:17 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=CHouse, User Name=Chelsea House, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:58:21 INFO  MailServiceImpl:83 - Message has been sent to: CHouse@stanfordchildrens.org
+2018-07-22 12:58:51 INFO  MailServiceImpl:74 - Sending message to: SyZhang@stanfordchildrens.org
+2018-07-22 12:58:51 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=SyZhang, User Name=Sylvia Zhang, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 12:58:55 INFO  MailServiceImpl:83 - Message has been sent to: SyZhang@stanfordchildrens.org
+2018-07-22 12:59:25 INFO  MailServiceImpl:74 - Sending message to: AHeitner@stanfordchildrens.org
+2018-07-22 12:59:25 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=AHeitner, User Name=Abigail Heitner, End Date=2018-07-31 00:00:00.0000000, Job Title=Clincial Nurse]
+2018-07-22 12:59:28 INFO  MailServiceImpl:83 - Message has been sent to: AHeitner@stanfordchildrens.org
+2018-07-22 12:59:58 INFO  MailServiceImpl:74 - Sending message to: MLantsberger@stanfordchildrens.org
+2018-07-22 12:59:58 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MLantsberger, User Name=Megan Lantsberger, End Date=2018-08-02 00:00:00.0000000, Job Title=Scribe]
+2018-07-22 13:00:02 INFO  MailServiceImpl:83 - Message has been sent to: MLantsberger@stanfordchildrens.org
+2018-07-22 13:00:32 INFO  MailServiceImpl:74 - Sending message to: KBogart@stanfordchildrens.org
+2018-07-22 13:00:32 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=KBogart, User Name=Kristen Bogart, End Date=2018-08-03 00:00:00.0000000, Job Title=Radiologist Assistant]
+2018-07-22 13:00:36 INFO  MailServiceImpl:83 - Message has been sent to: KBogart@stanfordchildrens.org
+2018-07-22 13:01:06 INFO  MailServiceImpl:74 - Sending message to: VRiveraPeterson@stanfordchildrens.org
+2018-07-22 13:01:06 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=VRiveraPeterson, User Name=Victoria Rivera-Peterson, End Date=2018-08-01 00:00:00.0000000, Job Title=Research Assistant]
+2018-07-22 13:01:11 INFO  MailServiceImpl:83 - Message has been sent to: VRiveraPeterson@stanfordchildrens.org
+2018-07-22 13:01:41 INFO  MailServiceImpl:74 - Sending message to: PSadhu@stanfordchildrens.org
+2018-07-22 13:01:41 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=PSadhu, User Name=Patti Sadhu, End Date=2018-08-01 00:00:00.0000000, Job Title=Coding and Charge Entry Support Services]
+2018-07-22 13:01:45 INFO  MailServiceImpl:83 - Message has been sent to: PSadhu@stanfordchildrens.org
+2018-07-22 13:02:15 INFO  MailServiceImpl:74 - Sending message to: JaJackson@stanfordchildrens.org
+2018-07-22 13:02:15 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=JaJackson, User Name=Jasmyne Jackson, End Date=2018-07-23 00:00:00.0000000, Job Title=OB Tech]
+2018-07-22 13:02:19 INFO  MailServiceImpl:83 - Message has been sent to: JaJackson@stanfordchildrens.org
+2018-07-22 13:02:49 INFO  MailServiceImpl:74 - Sending message to: MaAnabeza@stanfordchildrens.org
+2018-07-22 13:02:49 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MaAnabeza, User Name=Marlyn Anabeza, End Date=2018-07-31 00:00:00.0000000, Job Title=Abstracter]
+2018-07-22 13:02:53 INFO  MailServiceImpl:83 - Message has been sent to: MaAnabeza@stanfordchildrens.org
+2018-07-22 13:03:23 INFO  MailServiceImpl:74 - Sending message to: Ajay.K.Mishra@nttdata.com
+2018-07-22 13:03:23 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=VMishra, User Name=Ajay Mishra, End Date=2018-08-02 00:00:00.0000000, Job Title=Database Admin Sr. Analyst]
+2018-07-22 13:03:23 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=AMishra, User Name=Ajay Mishra, End Date=2018-08-02 00:00:00.0000000, Job Title=Database Admin Sr. Analyst]
+2018-07-22 13:03:26 INFO  MailServiceImpl:83 - Message has been sent to: Ajay.K.Mishra@nttdata.com
+2018-07-22 13:03:56 INFO  MailServiceImpl:74 - Sending message to: ARizo@stanfordhealthcare.org
+2018-07-22 13:03:56 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=ARizo, User Name=Alejandro Rizo, End Date=2018-08-04 00:00:00.0000000, Job Title=SUPPORT SERVICES ASSISTANT II]
+2018-07-22 13:04:01 INFO  MailServiceImpl:83 - Message has been sent to: ARizo@stanfordhealthcare.org
+2018-07-22 13:04:31 INFO  MailServiceImpl:74 - Sending message to: CSotelo@stanfordhealthcare.org
+2018-07-22 13:04:31 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=CSotelo, User Name=Cynthia Sotelo, End Date=2018-08-04 00:00:00.0000000, Job Title=PROCUREMENT ASST]
+2018-07-22 13:04:33 INFO  MailServiceImpl:83 - Message has been sent to: CSotelo@stanfordhealthcare.org
+2018-07-22 13:05:03 INFO  MailServiceImpl:74 - Sending message to: TEadens@stanfordchildrens.org
+2018-07-22 13:05:03 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=TEadens, User Name=Troy Eadens, End Date=2018-08-02 00:00:00.0000000, Job Title=Service Desk Agent]
+2018-07-22 13:05:08 INFO  MailServiceImpl:83 - Message has been sent to: TEadens@stanfordchildrens.org
+2018-07-22 13:05:38 INFO  MailServiceImpl:74 - Sending message to: MAbboud@stanfordchildrens.org
+2018-07-22 13:05:38 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=MAbboud, User Name=Maria Abboud, End Date=2018-08-02 00:00:00.0000000, Job Title=PTP MyChart Support Agent]
+2018-07-22 13:05:44 INFO  MailServiceImpl:83 - Message has been sent to: MAbboud@stanfordchildrens.org
+2018-07-22 13:06:14 INFO  MailServiceImpl:74 - Sending message to: GRPalanis@stanfordchildrens.org
+2018-07-22 13:06:14 INFO  MailServiceImpl:79 - Expiring User: UserInfo [User ID=GRPalanis, User Name=Ganaga Raasu Palanis, End Date=2018-08-02 00:00:00.0000000, Job Title=Linux Admin]
+2018-07-22 13:06:18 INFO  MailServiceImpl:83 - Message has been sent to: GRPalanis@stanfordchildrens.org
+2018-07-22 13:06:48 INFO  ClassPathXmlApplicationContext:982 - Closing org.springframework.context.support.ClassPathXmlApplicationContext@1c655221: startup date [Sun Jul 22 11:33:26 PDT 2018]; root of context hierarchy

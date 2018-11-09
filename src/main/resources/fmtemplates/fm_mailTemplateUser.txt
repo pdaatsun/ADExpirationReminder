@@ -1,0 +1,69 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+      xmlns:w="urn:schemas-microsoft-com:office:word"
+      xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+      xmlns="http://www.w3.org/TR/REC-html40">
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+
+<div class=WordSection1>
+
+    <p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>Hi,</o:p></span></p>
+
+    <p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>You
+    are receiving this notification because your access to the Stanford Children's Health network is set to expire on the end date(s) listed below:<o:p></o:p></span></p>
+
+    <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+           style='border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in'>
+        <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.0pt'>
+            <td width=120 nowrap valign=top style='width:71.7pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+                <p class=MsoNormal><b><span style='font-size:10.0pt'>User ID<o:p></o:p></span></b></p>
+            </td>
+            <td width=173 nowrap valign=top style='width:103.5pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+                <p class=MsoNormal><b><span style='font-size:10.0pt'>User Name<o:p></o:p></span></b></p>
+            </td>
+            <td width=120 nowrap valign=top style='width:71.9pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+                <p class=MsoNormal><b><span style='font-size:10.0pt'>End Date<o:p></o:p></span></b></p>
+            </td>
+            <td width=158 valign=top style='width:94.5pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+                <p class=MsoNormal><b><span style='font-size:10.0pt'>Department/Job Title<o:p></o:p></span></b></p>
+            </td>
+        </tr>
+        <#list userInfoList as userInfo>
+        <tr style='mso-yfti-irow:1;height:15.0pt'>
+            <td width=120 nowrap valign=top style='width:71.7pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+                <p class=MsoNormal><span style='font-size:10.0pt'>${userInfo.userID}<o:p></o:p></span></p>
+            </td>
+            <td width=173 nowrap valign=top style='width:103.5pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+                <p class=MsoNormal><span style='font-size:10.0pt'>${userInfo.userName}<o:p></o:p></span></p>
+            </td>
+            <td width=120 nowrap valign=top style='width:71.9pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.0pt'>
+                <p class=MsoNormal><span style='font-size:10.0pt'>${userInfo.endDate}<o:p></o:p></span></p>
+            </td>
+            <td width=158 valign=top style='width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 0in 0in 0in;height:15.0pt'>
+                <p class=MsoNormal><span style='font-size:10.0pt'>${userInfo.jobTitle}<o:p>&nbsp;</o:p></span></p>
+            </td>
+        </tr>
+        </#list>
+    </table>
+    <p class="MsoNormal"><span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif;">Please work with your Stanford Children's Health Sponsor/Manager to extend your access if needed. If not updated, your network and email access will be terminated the day after the end date listed above.&nbsp;</span><span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif;"><a href="https://stanfordchildrens.sharepoint.com/:b:/s/ConnectAnywhere/IS/iso/EfyOwEZtw1NBr4t4KUGpgIABHG05YFszdLVK3FMxp3TeQA?e=iwoeJE">Follow this link</a>&nbsp;for instructions on how to update a non-employee's end date in the&nbsp;<a href="https://idm.stanfordchildrens.org/">Identity and Access Management (IAM) Application</a>. <strong>Only employees are able to extend non-employees in IAM.</strong>&nbsp;</span></p>
+    <p class="MsoNormal"><span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif;">If you have any questions, please email Identity and Access Management Team at SCHAccessControl@stanfordchildrens.org or contact the IS Service Desk at (650) 498-7500 or helpdesk@stanfordchildrens.org . </span></p>
+    <p class="MsoNormal"><span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif;">Thank You, <br />Stanford Children's Health Identity and Access Management Team </span></p>
+    <p class="MsoNormal"><span style="font-size: 10.0pt; font-family: 'Cambria',serif; color: gray;">This is an automated email for informational purposes only and will not accept replies. This communication is intended solely for the individual/entity to which it is addressed. It may contain confidential or legally privileged information. Any unauthorized disclosure or copying is prohibited and may be unlawful.</span></p>
+  </div>
+
+</div>
+
+</body>
+
+</html>
